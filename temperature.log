@@ -1,0 +1,2386 @@
+Collecting  Afghanistan 's temperature info
+    City:  Kabul  Avg Temp.:  -1.3
+Country:  Afghanistan  Avg Temp.:  -1.3
+Collecting  Algeria 's temperature info
+    City:  Algiers  Avg Temp.:  11.1
+    City:  Annaba  Avg Temp.:  11.6
+    City:  Bechar  Avg Temp.:  9.7
+    City:  Biskra  Avg Temp.:  11.8
+    City:  Constantine  Avg Temp.:  7.0
+    City:  Djanet  Avg Temp.:  11.9
+    City:  Djelfa  Avg Temp.:  5.0
+    City:  Ghardaia  Avg Temp.:  10.9
+    City:  Oran  Avg Temp.:  10.9
+    City:  Setif  Avg Temp.:  5.5
+    City:  Tamanrasset  Avg Temp.:  12.7
+    City:  Tlemcen  Avg Temp.:  9.9
+Country:  Algeria  Avg Temp.:  9.8
+Collecting  Angola 's temperature info
+    City:  Luanda  Avg Temp.:  26.7
+Country:  Angola  Avg Temp.:  26.7
+Collecting  Antigua and Barbuda 's temperature info
+    City:  St. John's Antigua  Avg Temp.:  25.2
+Country:  Antigua and Barbuda  Avg Temp.:  25.2
+Collecting  Argentina 's temperature info
+    City:  Bariloche  Avg Temp.:  14.6
+    City:  Buenos Aires  Avg Temp.:  25.1
+    City:  Cordoba  Avg Temp.:  23.4
+    City:  El Calafate  Avg Temp.:  12.9
+    City:  Iguazu  Avg Temp.:  26.1
+    City:  Mar del Plata  Avg Temp.:  20.6
+    City:  Mendoza  Avg Temp.:  25.5
+    City:  Salta  Avg Temp.:  22.0
+    City:  Trelew  Avg Temp.:  21.4
+    City:  Ushuaia  Avg Temp.:  10.1
+Country:  Argentina  Avg Temp.:  20.2
+Collecting  Armenia 's temperature info
+    City:  Dilijan  Avg Temp.:  -1.0
+    City:  Jermuk  Avg Temp.:  -7.3
+    City:  Kapan  Avg Temp.:  -3.0
+    City:  Sevan  Avg Temp.:  -7.9
+    City:  Vanadzor  Avg Temp.:  -8.2
+    City:  Yerevan  Avg Temp.:  -3.5
+Country:  Armenia  Avg Temp.:  -5.2
+Collecting  Australia 's temperature info
+    City:  Adelaide  Avg Temp.:  23.1
+    City:  Adventure Bay  Avg Temp.:  15.4
+    City:  Albany  Avg Temp.:  19.0
+    City:  Albion Park  Avg Temp.:  21.6
+    City:  Albury  Avg Temp.:  24.2
+    City:  Albury / Wodonga  Avg Temp.:  24.2
+    City:  Alice Springs  Avg Temp.:  29.4
+    City:  Alyangula  Avg Temp.:  29.4
+    City:  Ararat  Avg Temp.:  19.1
+    City:  Argyle  Avg Temp.:  31.1
+    City:  Armidale  Avg Temp.:  19.8
+    City:  Augusta  Avg Temp.:  20.2
+    City:  Avalon  Avg Temp.:  20.0
+    City:  Ayr / Home Hill  Avg Temp.:  27.4
+    City:  Bairnsdale  Avg Temp.:  19.3
+    City:  Ballarat  Avg Temp.:  18.1
+    City:  Ballina  Avg Temp.:  23.9
+    City:  Batemans Bay  Avg Temp.:  20.6
+    City:  Bathurst  Avg Temp.:  21.1
+    City:  Bega  Avg Temp.:  20.9
+    City:  Bellerive  Avg Temp.:  17.4
+    City:  Ben Lomond  Avg Temp.:  16.8
+    City:  Bendigo  Avg Temp.:  21.8
+    City:  Bicheno  Avg Temp.:  17.3
+    City:  Borroloola  Avg Temp.:  29.4
+    City:  Bourke  Avg Temp.:  28.6
+    City:  Bowen  Avg Temp.:  27.7
+    City:  Bowral  Avg Temp.:  19.6
+    City:  Bridgetown  Avg Temp.:  20.9
+    City:  Bridport  Avg Temp.:  17.4
+    City:  Brisbane  Avg Temp.:  25.9
+    City:  Brisbane Airport  Avg Temp.:  25.1
+    City:  Brisbane Bayside  Avg Temp.:  25.5
+    City:  Broken Hill  Avg Temp.:  26.2
+    City:  Broome  Avg Temp.:  29.9
+    City:  Bunbury  Avg Temp.:  22.3
+    City:  Bundaberg  Avg Temp.:  26.1
+    City:  Busselton  Avg Temp.:  21.9
+    City:  Cabramurra  Avg Temp.:  16.4
+    City:  Cairns  Avg Temp.:  27.8
+    City:  Canberra  Avg Temp.:  20.4
+    City:  Canterbury  Avg Temp.:  23.0
+    City:  Cape Byron  Avg Temp.:  24.1
+    City:  Cape Otway  Avg Temp.:  17.2
+    City:  Carnarvon  Avg Temp.:  26.9
+    City:  Casterton  Avg Temp.:  19.6
+    City:  Castlemaine  Avg Temp.:  20.5
+    City:  Ceduna  Avg Temp.:  22.1
+    City:  Cerberus  Avg Temp.:  18.9
+    City:  Cessnock  Avg Temp.:  23.4
+    City:  Charleville  Avg Temp.:  28.9
+    City:  Charters Towers  Avg Temp.:  27.9
+    City:  Christmas Island  Avg Temp.:  25.4
+    City:  Clare  Avg Temp.:  22.4
+    City:  Clermont  Avg Temp.:  28.2
+    City:  Cobar  Avg Temp.:  27.6
+    City:  Cocos Island  Avg Temp.:  27.5
+    City:  Coffs Harbour  Avg Temp.:  23.4
+    City:  Colac  Avg Temp.:  18.9
+    City:  Collie  Avg Temp.:  21.9
+    City:  Combienbar  Avg Temp.:  19.4
+    City:  Coober Pedy  Avg Temp.:  29.2
+    City:  Cooma  Avg Temp.:  19.1
+    City:  Coonawarra  Avg Temp.:  19.2
+    City:  Cranbourne  Avg Temp.:  19.3
+    City:  Cressy  Avg Temp.:  17.6
+    City:  Currie  Avg Temp.:  16.5
+    City:  Cygnet  Avg Temp.:  15.8
+    City:  Dalby  Avg Temp.:  25.6
+    City:  Dalwallinu  Avg Temp.:  26.7
+    City:  Dartmouth  Avg Temp.:  21.6
+    City:  Darwin  Avg Temp.:  28.4
+    City:  Darwin Rural  Avg Temp.:  28.2
+    City:  Denham  Avg Temp.:  26.0
+    City:  Deniliquin  Avg Temp.:  24.9
+    City:  Derby  Avg Temp.:  30.6
+    City:  Devonport  Avg Temp.:  16.7
+    City:  Dover  Avg Temp.:  15.4
+    City:  Dubbo  Avg Temp.:  25.6
+    City:  Echuca  Avg Temp.:  22.9
+    City:  Elizabeth  Avg Temp.:  23.1
+    City:  Emerald  Avg Temp.:  28.4
+    City:  Esperance  Avg Temp.:  20.9
+    City:  Eucla  Avg Temp.:  21.8
+    City:  Exmouth  Avg Temp.:  30.5
+    City:  Falls Creek  Avg Temp.:  13.1
+    City:  Fingal  Avg Temp.:  16.8
+    City:  Fitzroy Crossing  Avg Temp.:  31.5
+    City:  Frankston  Avg Temp.:  20.1
+    City:  Gabo Island  Avg Temp.:  19.0
+    City:  Geelong  Avg Temp.:  18.1
+    City:  Geeveston  Avg Temp.:  15.8
+    City:  George Town  Avg Temp.:  17.2
+    City:  Geraldton  Avg Temp.:  24.8
+    City:  Gladstone  Avg Temp.:  26.9
+    City:  Glen Innes  Avg Temp.:  20.5
+    City:  Gold Coast  Avg Temp.:  24.6
+    City:  Goondiwindi  Avg Temp.:  27.2
+    City:  Gosford  Avg Temp.:  22.7
+    City:  Goulburn  Avg Temp.:  20.7
+    City:  Grafton  Avg Temp.:  25.1
+    City:  Griffith  Avg Temp.:  25.7
+    City:  Gympie  Avg Temp.:  25.5
+    City:  Halls Creek  Avg Temp.:  30.5
+    City:  Hamilton  Avg Temp.:  18.6
+    City:  Hay  Avg Temp.:  25.2
+    City:  Hervey Bay  Avg Temp.:  26.1
+    City:  Hobart  Avg Temp.:  17.4
+    City:  Horsham  Avg Temp.:  21.7
+    City:  Ingham  Avg Temp.:  27.7
+    City:  Innisfail  Avg Temp.:  27.1
+    City:  Inverell  Avg Temp.:  22.8
+    City:  Ipswich  Avg Temp.:  25.4
+    City:  Ivanhoe  Avg Temp.:  26.8
+    City:  Jabiru  Avg Temp.:  29.2
+    City:  Kalbarri  Avg Temp.:  26.2
+    City:  Kalgoorlie  Avg Temp.:  26.1
+    City:  Kalumburu  Avg Temp.:  29.4
+    City:  Karratha  Avg Temp.:  31.5
+    City:  Katanning  Avg Temp.:  21.8
+    City:  Katherine  Avg Temp.:  29.3
+    City:  Katoomba  Avg Temp.:  18.2
+    City:  Keith  Avg Temp.:  21.6
+    City:  Kempsey  Avg Temp.:  23.6
+    City:  Kerang  Avg Temp.:  23.7
+    City:  Kilmore Gap  Avg Temp.:  18.4
+    City:  Kingaroy  Avg Temp.:  23.5
+    City:  Kingscote  Avg Temp.:  19.7
+    City:  Kununurra  Avg Temp.:  30.5
+    City:  Kurnell  Avg Temp.:  22.5
+    City:  Kyabram  Avg Temp.:  22.4
+    City:  Kyancutta  Avg Temp.:  23.6
+    City:  Lajamanu  Avg Temp.:  30.4
+    City:  Lake Eildon  Avg Temp.:  20.8
+    City:  Lake Grace  Avg Temp.:  23.0
+    City:  Lake St Clair  Avg Temp.:  12.8
+    City:  Latrobe  Avg Temp.:  16.7
+    City:  Latrobe Valley  Avg Temp.:  19.4
+    City:  Launceston  Avg Temp.:  18.2
+    City:  Laverton [VIC]  Avg Temp.:  19.8
+    City:  Laverton [WA]  Avg Temp.:  28.1
+    City:  Leigh Creek  Avg Temp.:  27.9
+    City:  Leinster  Avg Temp.:  30.4
+    City:  Leonora  Avg Temp.:  29.3
+    City:  Liawenee  Avg Temp.:  11.9
+    City:  Lismore  Avg Temp.:  24.3
+    City:  Lithgow  Avg Temp.:  18.6
+    City:  Liverpool  Avg Temp.:  22.9
+    City:  Longerenong  Avg Temp.:  21.4
+    City:  Longreach  Avg Temp.:  30.2
+    City:  Lord Howe Island  Avg Temp.:  22.9
+    City:  Mackay  Avg Temp.:  27.1
+    City:  Maitland  Avg Temp.:  24.1
+    City:  Maitland and Cessnock  Avg Temp.:  24.1
+    City:  Mandurah  Avg Temp.:  23.1
+    City:  Maningrida  Avg Temp.:  28.6
+    City:  Manjimup  Avg Temp.:  20.2
+    City:  Marble Bar  Avg Temp.:  33.6
+    City:  Mareeba  Avg Temp.:  26.1
+    City:  Marrawah  Avg Temp.:  16.1
+    City:  Maryborough  Avg Temp.:  26.1
+    City:  Maryborough [VIC]  Avg Temp.:  20.9
+    City:  Maydena  Avg Temp.:  15.5
+    City:  Meekatharra  Avg Temp.:  31.6
+    City:  Melbourne  Avg Temp.:  20.9
+    City:  Merredin  Avg Temp.:  25.8
+    City:  Mildura  Avg Temp.:  24.6
+    City:  Moora  Avg Temp.:  26.1
+    City:  Moorabbin  Avg Temp.:  19.9
+    City:  Moranbah  Avg Temp.:  27.9
+    City:  Morawa  Avg Temp.:  28.1
+    City:  Moree  Avg Temp.:  26.8
+    City:  Mornington Peninsula  Avg Temp.:  19.2
+    City:  Mortlake  Avg Temp.:  18.1
+    City:  Mount Barker  Avg Temp.:  20.1
+    City:  Mount Buller  Avg Temp.:  12.6
+    City:  Mount Field  Avg Temp.:  15.5
+    City:  Mount Gambier  Avg Temp.:  18.5
+    City:  Mount Hotham  Avg Temp.:  12.1
+    City:  Mount Isa  Avg Temp.:  30.0
+    City:  Mount Moornapa  Avg Temp.:  19.2
+    City:  Mount Nowa Nowa  Avg Temp.:  19.4
+    City:  Mount Wellington  Avg Temp.:  9.4
+    City:  Mudgee  Avg Temp.:  23.1
+    City:  Murray Bridge  Avg Temp.:  21.9
+    City:  Naracoorte  Avg Temp.:  20.5
+    City:  Narrabri  Avg Temp.:  26.2
+    City:  Narrogin  Avg Temp.:  22.7
+    City:  Newcastle  Avg Temp.:  22.3
+    City:  Newman  Avg Temp.:  32.2
+    City:  Nhill  Avg Temp.:  21.2
+    City:  Nhulunbuy  Avg Temp.:  28.3
+    City:  Noarlunga  Avg Temp.:  22.8
+    City:  Norfolk Island  Avg Temp.:  21.8
+    City:  Norseman  Avg Temp.:  24.2
+    City:  Northam  Avg Temp.:  25.7
+    City:  Nowra  Avg Temp.:  20.9
+    City:  Nuriootpa  Avg Temp.:  22.2
+    City:  Onslow  Avg Temp.:  29.9
+    City:  Orange  Avg Temp.:  19.8
+    City:  Orbost  Avg Temp.:  19.9
+    City:  Orford  Avg Temp.:  16.9
+    City:  Ouse  Avg Temp.:  17.8
+    City:  Ouyen  Avg Temp.:  24.0
+    City:  Paraburdoo  Avg Temp.:  33.6
+    City:  Parkes  Avg Temp.:  25.8
+    City:  Parramatta  Avg Temp.:  23.0
+    City:  Penrith  Avg Temp.:  24.5
+    City:  Perth  Avg Temp.:  24.3
+    City:  Pirlangimpi  Avg Temp.:  28.2
+    City:  Point Hicks  Avg Temp.:  19.9
+    City:  Port Augusta  Avg Temp.:  25.7
+    City:  Port Hedland  Avg Temp.:  31.2
+    City:  Port Lincoln  Avg Temp.:  20.7
+    City:  Port Macquarie  Avg Temp.:  22.9
+    City:  Port Pirie  Avg Temp.:  24.6
+    City:  Ravensthorpe  Avg Temp.:  21.3
+    City:  Redesdale  Avg Temp.:  21.0
+    City:  Renmark  Avg Temp.:  25.0
+    City:  Rhyll  Avg Temp.:  19.4
+    City:  Richmond [NSW]  Avg Temp.:  23.8
+    City:  Robe  Avg Temp.:  18.3
+    City:  Rockhampton  Avg Temp.:  27.4
+    City:  Roebourne  Avg Temp.:  32.8
+    City:  Roma  Avg Temp.:  27.6
+    City:  Ross  Avg Temp.:  17.4
+    City:  Roxby Downs  Avg Temp.:  29.1
+    City:  Sale  Avg Temp.:  19.4
+    City:  Scone  Avg Temp.:  23.9
+    City:  Scoresby  Avg Temp.:  19.9
+    City:  Scottsdale  Avg Temp.:  17.0
+    City:  Seymour  Avg Temp.:  21.9
+    City:  Sheffield  Avg Temp.:  16.2
+    City:  Sheoaks  Avg Temp.:  18.8
+    City:  Shepparton  Avg Temp.:  23.5
+    City:  Singleton  Avg Temp.:  24.1
+    City:  Smithton  Avg Temp.:  16.3
+    City:  Sorell  Avg Temp.:  17.4
+    City:  St Helens  Avg Temp.:  17.4
+    City:  Strahan Town  Avg Temp.:  15.6
+    City:  Strathbogie  Avg Temp.:  19.6
+    City:  Strathgordon  Avg Temp.:  14.2
+    City:  Sunshine Coast  Avg Temp.:  25.0
+    City:  Swan Hill  Avg Temp.:  24.4
+    City:  Swansea  Avg Temp.:  16.9
+    City:  Sydney  Avg Temp.:  23.1
+    City:  Tamworth  Avg Temp.:  24.9
+    City:  Taree  Avg Temp.:  23.5
+    City:  Tarraleah  Avg Temp.:  13.3
+    City:  Tatura  Avg Temp.:  21.9
+    City:  Tennant Creek  Avg Temp.:  30.9
+    City:  Thredbo  Avg Temp.:  11.9
+    City:  Tibooburra  Avg Temp.:  30.0
+    City:  Toowoomba  Avg Temp.:  22.9
+    City:  Townsville  Avg Temp.:  28.2
+    City:  Tuggeranong  Avg Temp.:  21.5
+    City:  Tullamarine  Avg Temp.:  19.9
+    City:  Tunnack  Avg Temp.:  15.2
+    City:  Victor Harbor  Avg Temp.:  19.8
+    City:  Wagga Wagga  Avg Temp.:  24.2
+    City:  Walpeup  Avg Temp.:  23.8
+    City:  Wangaratta  Avg Temp.:  23.0
+    City:  Warracknabeal  Avg Temp.:  22.6
+    City:  Warrnambool  Avg Temp.:  17.9
+    City:  Warwick  Avg Temp.:  23.5
+    City:  Watsonia  Avg Temp.:  20.3
+    City:  Weeaproinah  Avg Temp.:  15.2
+    City:  Whitemark  Avg Temp.:  17.9
+    City:  Whyalla  Avg Temp.:  23.8
+    City:  Wilsons Promontory  Avg Temp.:  17.6
+    City:  Winton  Avg Temp.:  31.0
+    City:  Wollongong  Avg Temp.:  21.9
+    City:  Wonthaggi  Avg Temp.:  18.5
+    City:  Woomera  Avg Temp.:  27.3
+    City:  Wudinna  Avg Temp.:  24.2
+    City:  Wyndham  Avg Temp.:  31.6
+    City:  Wynyard  Avg Temp.:  16.4
+    City:  Yarra Glen  Avg Temp.:  19.6
+    City:  Yarrawonga  Avg Temp.:  24.1
+    City:  Yass  Avg Temp.:  22.1
+    City:  Yeppoon  Avg Temp.:  26.5
+    City:  Young  Avg Temp.:  23.1
+    City:  Yuendumu  Avg Temp.:  29.7
+    City:  Yulara  Avg Temp.:  30.6
+Country:  Australia  Avg Temp.:  22.8
+Collecting  Austria 's temperature info
+    City:  Innsbruck  Avg Temp.:  -0.9
+    City:  Klagenfurt  Avg Temp.:  -3.5
+    City:  Vienna  Avg Temp.:  0.4
+Country:  Austria  Avg Temp.:  -1.3
+Collecting  Azerbaijan 's temperature info
+    City:  Baku  Avg Temp.:  4.3
+    City:  Ganja  Avg Temp.:  2.1
+    City:  Lenkaran  Avg Temp.:  3.6
+Country:  Azerbaijan  Avg Temp.:  3.3
+Collecting  Bahamas 's temperature info
+    City:  Freeport  Avg Temp.:  20.1
+    City:  Inagua  Avg Temp.:  24.2
+    City:  Nassau  Avg Temp.:  21.4
+Country:  Bahamas  Avg Temp.:  21.9
+Collecting  Bahrain 's temperature info
+    City:  Bahrain/Manama  Avg Temp.:  17.1
+Country:  Bahrain  Avg Temp.:  17.1
+Collecting  Bangladesh 's temperature info
+    City:  Barishal  Avg Temp.:  18.8
+    City:  Chittagong  Avg Temp.:  19.9
+    City:  Dhaka  Avg Temp.:  19.0
+    City:  Khulna  Avg Temp.:  19.1
+    City:  Rajshahi  Avg Temp.:  17.8
+    City:  Sylhet  Avg Temp.:  19.1
+Country:  Bangladesh  Avg Temp.:  19.0
+Collecting  Belarus 's temperature info
+    City:  Minsk  Avg Temp.:  -7.0
+Country:  Belarus  Avg Temp.:  -7.0
+Collecting  Belgium 's temperature info
+    City:  Brussels  Avg Temp.:  3.1
+    City:  Kleine Brogel  Avg Temp.:  2.5
+    City:  Ostend  Avg Temp.:  3.6
+    City:  St. Hubert  Avg Temp.:  0.0
+    City:  Virton  Avg Temp.:  1.8
+Country:  Belgium  Avg Temp.:  2.2
+Collecting  Belize 's temperature info
+    City:  Belize City  Avg Temp.:  23.6
+    City:  Belmopan City  Avg Temp.:  22.9
+Country:  Belize  Avg Temp.:  23.2
+Collecting  Benin 's temperature info
+    City:  Bohicon  Avg Temp.:  27.9
+    City:  Cotonou  Avg Temp.:  32.1
+    City:  Kandi  Avg Temp.:  25.5
+    City:  Kerou  Avg Temp.:  23.0
+    City:  Natitingou  Avg Temp.:  26.6
+    City:  Ouidah  Avg Temp.:  27.5
+    City:  Parakou  Avg Temp.:  26.5
+    City:  Save  Avg Temp.:  27.5
+Country:  Benin  Avg Temp.:  27.1
+Collecting  Bhutan 's temperature info
+    City:  Bhur  Avg Temp.:  17.8
+    City:  Bumthang  Avg Temp.:  3.8
+    City:  Mongar  Avg Temp.:  11.2
+    City:  Paro  Avg Temp.:  5.7
+    City:  Samtse  Avg Temp.:  17.1
+    City:  Thimphu  Avg Temp.:  6.5
+    City:  Trashigang  Avg Temp.:  9.1
+    City:  Wangdi Phodrang  Avg Temp.:  12.2
+Country:  Bhutan  Avg Temp.:  10.4
+Collecting  Bosnia and Herzegovina 's temperature info
+    City:  Banja Luka  Avg Temp.:  -0.4
+    City:  Mostar  Avg Temp.:  5.2
+    City:  Sarajevo  Avg Temp.:  -0.9
+    City:  Tuzla  Avg Temp.:  -0.4
+Country:  Bosnia and Herzegovina  Avg Temp.:  0.9
+Collecting  Botswana 's temperature info
+    City:  Francistown  Avg Temp.:  24.9
+    City:  Gaborone  Avg Temp.:  25.9
+    City:  Ghanzi  Avg Temp.:  25.9
+    City:  Kasane  Avg Temp.:  25.2
+    City:  Maun  Avg Temp.:  26.0
+    City:  Sir Seretse Khama Airport  Avg Temp.:  25.8
+Country:  Botswana  Avg Temp.:  25.6
+Collecting  Brazil 's temperature info
+    City:  Aracaju  Avg Temp.:  27.0
+    City:  Belem  Avg Temp.:  26.5
+    City:  Belo Horizonte  Avg Temp.:  23.5
+    City:  Brasilia  Avg Temp.:  22.1
+    City:  Campo Grande  Avg Temp.:  24.1
+    City:  Cuiaba  Avg Temp.:  27.9
+    City:  Curitiba  Avg Temp.:  20.7
+    City:  Florianopolis  Avg Temp.:  24.7
+    City:  Fortaleza  Avg Temp.:  27.6
+    City:  Goiania  Avg Temp.:  24.4
+    City:  Joao Pessoa  Avg Temp.:  27.3
+    City:  Macapa  Avg Temp.:  26.4
+    City:  Maceio  Avg Temp.:  26.3
+    City:  Manaus  Avg Temp.:  26.8
+    City:  Porto Alegre  Avg Temp.:  25.4
+    City:  Porto Velho  Avg Temp.:  26.0
+    City:  Recife  Avg Temp.:  26.3
+    City:  Rio Branco  Avg Temp.:  26.6
+    City:  Rio De Janeiro  Avg Temp.:  26.4
+    City:  Salvador  Avg Temp.:  26.8
+    City:  Sao Luis  Avg Temp.:  26.1
+    City:  Sao Paulo  Avg Temp.:  23.0
+    City:  Teresina  Avg Temp.:  27.4
+    City:  Vitoria  Avg Temp.:  27.0
+Country:  Brazil  Avg Temp.:  25.7
+Collecting  British Caribbean Territories 's temperature info
+    City:  Cayman Islands  Avg Temp.:  24.0
+Country:  British Caribbean Territories  Avg Temp.:  24.0
+Collecting  Brunei Darussalam 's temperature info
+    City:  Bandar Seri Begawan  Avg Temp.:  26.9
+Country:  Brunei Darussalam  Avg Temp.:  26.9
+Collecting  Bulgaria 's temperature info
+    City:  Sofia  Avg Temp.:  -1.4
+    City:  Varna  Avg Temp.:  2.2
+Country:  Bulgaria  Avg Temp.:  0.4
+Collecting  Burkina Faso 's temperature info
+    City:  Bobo Dioulasso  Avg Temp.:  25.6
+    City:  Boromo  Avg Temp.:  25.2
+    City:  Dedougou  Avg Temp.:  25.5
+    City:  Dori  Avg Temp.:  23.5
+    City:  Fada Ngourma  Avg Temp.:  25.4
+    City:  Gaoua  Avg Temp.:  26.2
+    City:  Ouagadougou Aero  Avg Temp.:  24.7
+    City:  Ouahigouya  Avg Temp.:  24.5
+    City:  Po  Avg Temp.:  26.2
+Country:  Burkina Faso  Avg Temp.:  25.2
+Collecting  Burundi 's temperature info
+    City:  Bujumbura  Avg Temp.:  24.1
+    City:  Gitega  Avg Temp.:  19.5
+    City:  Musasa  Avg Temp.:  21.6
+    City:  Muyinga  Avg Temp.:  19.8
+    City:  Ngozi  Avg Temp.:  16.7
+    City:  Nyanza Lac  Avg Temp.:  23.6
+    City:  Rwegura  Avg Temp.:  16.1
+Country:  Burundi  Avg Temp.:  20.2
+Collecting  Cambodia 's temperature info
+    City:  Phnom Penh - Pochentong  Avg Temp.:  26.7
+    City:  Siem Reap  Avg Temp.:  25.9
+Country:  Cambodia  Avg Temp.:  26.3
+Collecting  Cameroon 's temperature info
+    City:  Bamenda  Avg Temp.:  19.5
+    City:  Bertoua  Avg Temp.:  23.6
+    City:  Douala  Avg Temp.:  27.8
+    City:  Garoua  Avg Temp.:  25.9
+    City:  Kribi  Avg Temp.:  27.9
+    City:  Ngaoundere  Avg Temp.:  20.3
+    City:  Yaounde  Avg Temp.:  24.6
+Country:  Cameroon  Avg Temp.:  24.2
+Collecting  Canada 's temperature info
+    City:  Banff, Alberta  Avg Temp.:  -9.3
+    City:  Calgary, Alberta  Avg Temp.:  -8.9
+    City:  Charlottetown, Prince Edward Island  Avg Temp.:  -7.9
+    City:  Cranbrook, British Columbia  Avg Temp.:  -7.5
+    City:  Edmonton, Alberta  Avg Temp.:  -13.6
+    City:  Fredericton, New Brunswick  Avg Temp.:  -9.8
+    City:  Goose Bay, Newfoundland  Avg Temp.:  -18.1
+    City:  Grande Prairie, Alberta  Avg Temp.:  -15.0
+    City:  Halifax, Nova Scotia  Avg Temp.:  -5.9
+    City:  Inuvik, Northwest Territories  Avg Temp.:  -27.5
+    City:  Iqaluit, Nunavut  Avg Temp.:  -26.6
+    City:  Kamloops, British Columbia  Avg Temp.:  -4.2
+    City:  Lethbridge, Alberta  Avg Temp.:  -7.8
+    City:  Medicine Hat, Alberta  Avg Temp.:  -10.2
+    City:  Montreal, Quebec  Avg Temp.:  -12.0
+    City:  Ottawa, Ontario  Avg Temp.:  -10.7
+    City:  Prince George, British Columbia  Avg Temp.:  -9.6
+    City:  Prince Rupert, British Columbia  Avg Temp.:  1.2
+    City:  Quebec, Quebec  Avg Temp.:  -12.8
+    City:  Red Deer, Alberta  Avg Temp.:  -13.2
+    City:  Regina, Saskatchewan  Avg Temp.:  -16.1
+    City:  Saint John NB, New Brunswick  Avg Temp.:  -8.2
+    City:  Saskatoon, Saskatchewan  Avg Temp.:  -17.1
+    City:  St Johns, Newfoundland  Avg Temp.:  -4.8
+    City:  Sudbury, Ontario  Avg Temp.:  -13.5
+    City:  Sydney, Nova Scotia  Avg Temp.:  -5.7
+    City:  Thunder Bay, Ontario  Avg Temp.:  -14.9
+    City:  Toronto, Ontario  Avg Temp.:  -4.2
+    City:  Vancouver, British Columbia  Avg Temp.:  3.3
+    City:  Victoria, British Columbia  Avg Temp.:  3.8
+    City:  Whitehorse, Yukon Territories  Avg Temp.:  -17.6
+    City:  Windsor, Ontario  Avg Temp.:  -4.5
+    City:  Winnipeg, Manitoba  Avg Temp.:  -17.8
+    City:  Yellowknife, Northwest Territories  Avg Temp.:  -26.8
+Country:  Canada  Avg Temp.:  -11.0
+Collecting  Cape Verde 's temperature info
+Collecting  Chad 's temperature info
+    City:  Abeche  Avg Temp.:  24.8
+    City:  Bol  Avg Temp.:  22.1
+    City:  Faya-Largeau  Avg Temp.:  20.0
+    City:  Mongo  Avg Temp.:  25.4
+    City:  Moundou  Avg Temp.:  24.6
+    City:  Ndjamena  Avg Temp.:  20.9
+    City:  Sarh  Avg Temp.:  26.1
+Country:  Chad  Avg Temp.:  23.4
+Collecting  Chile 's temperature info
+    City:  Concepcion  Avg Temp.:  16.9
+    City:  Coyhaique  Avg Temp.:  14.0
+    City:  Iquique  Avg Temp.:  22.2
+    City:  La Serena  Avg Temp.:  17.7
+    City:  Puerto Montt  Avg Temp.:  14.6
+    City:  Punta Arenas  Avg Temp.:  11.1
+    City:  Santiago  Avg Temp.:  21.7
+Country:  Chile  Avg Temp.:  16.9
+Collecting  China 's temperature info
+    City:  Anshan  Avg Temp.:  -8.3
+    City:  Baoji  Avg Temp.:  0.8
+    City:  Baotou  Avg Temp.:  -10.4
+    City:  Beijing  Avg Temp.:  -3.9
+    City:  Changchun  Avg Temp.:  -15.4
+    City:  Changsha  Avg Temp.:  5.3
+    City:  Chengdu  Avg Temp.:  6.0
+    City:  Chongqing  Avg Temp.:  7.5
+    City:  Dali  Avg Temp.:  9.0
+    City:  Dalian  Avg Temp.:  -4.3
+    City:  Datong  Avg Temp.:  -10.0
+    City:  Fuzhou  Avg Temp.:  11.3
+    City:  Golmud  Avg Temp.:  -8.4
+    City:  Guangzhou  Avg Temp.:  14.1
+    City:  Guilin  Avg Temp.:  8.6
+    City:  Guiyang  Avg Temp.:  5.8
+    City:  Haikou  Avg Temp.:  17.7
+    City:  Hangzhou  Avg Temp.:  4.5
+    City:  Harbin  Avg Temp.:  -18.8
+    City:  Hefei  Avg Temp.:  2.9
+    City:  Hohhot  Avg Temp.:  -11.6
+    City:  Jinan  Avg Temp.:  -0.6
+    City:  Jingzhou  Avg Temp.:  4.5
+    City:  Kunming  Avg Temp.:  8.3
+    City:  Lanzhou  Avg Temp.:  -4.9
+    City:  Lhasa  Avg Temp.:  -1.6
+    City:  Liuzhou  Avg Temp.:  10.9
+    City:  Nanchang  Avg Temp.:  5.7
+    City:  Nanjing  Avg Temp.:  2.7
+    City:  Nanning  Avg Temp.:  13.4
+    City:  Naqu  Avg Temp.:  -12.1
+    City:  Ningbo  Avg Temp.:  5.0
+    City:  Qingdao  Avg Temp.:  -0.6
+    City:  Qiqihaer  Avg Temp.:  -18.1
+    City:  Sanya  Avg Temp.:  22.3
+    City:  Shanghai  Avg Temp.:  4.1
+    City:  Shangqiu  Avg Temp.:  0.6
+    City:  Shantou  Avg Temp.:  14.2
+    City:  Shaoguan  Avg Temp.:  10.9
+    City:  Shenyang  Avg Temp.:  -10.9
+    City:  Shenzhen  Avg Temp.:  15.6
+    City:  Shihezi  Avg Temp.:  -15.4
+    City:  Shijiazhuang  Avg Temp.:  -2.0
+    City:  Siping  Avg Temp.:  -13.0
+    City:  Taiyuan  Avg Temp.:  -5.3
+    City:  Tangshan  Avg Temp.:  -4.6
+    City:  Tianjin  Avg Temp.:  -3.0
+    City:  Tianshui  Avg Temp.:  -1.2
+    City:  Urumqi  Avg Temp.:  -13.1
+    City:  Wuhan  Avg Temp.:  3.8
+    City:  Xi'an  Avg Temp.:  0.3
+    City:  Xiamen  Avg Temp.:  13.2
+    City:  Xining  Avg Temp.:  -6.5
+    City:  Xuzhou  Avg Temp.:  0.9
+    City:  Yangquan  Avg Temp.:  -2.8
+    City:  Yichang  Avg Temp.:  5.3
+    City:  Yinchuan  Avg Temp.:  -7.8
+    City:  Yushu  Avg Temp.:  -6.6
+    City:  Zhangjiakou  Avg Temp.:  -7.6
+    City:  Zhengzhou  Avg Temp.:  0.5
+    City:  Zunyi  Avg Temp.:  5.0
+Country:  China  Avg Temp.:  0.2
+Collecting  Colombia 's temperature info
+    City:  Apartado  Avg Temp.:  26.8
+    City:  Arauca  Avg Temp.:  26.5
+    City:  Armenia  Avg Temp.:  22.1
+    City:  Barrancabermeja  Avg Temp.:  28.1
+    City:  Barranquilla  Avg Temp.:  27.4
+    City:  Bogota  Avg Temp.:  11.0
+    City:  Bucaramanga  Avg Temp.:  21.8
+    City:  Buenaventura  Avg Temp.:  25.7
+    City:  Cali  Avg Temp.:  24.5
+    City:  Cartagena  Avg Temp.:  27.1
+    City:  Cucuta  Avg Temp.:  25.6
+    City:  Florencia  Avg Temp.:  27.1
+    City:  Gaviotas  Avg Temp.:  27.0
+    City:  Ibague  Avg Temp.:  28.9
+    City:  Ipiales  Avg Temp.:  10.9
+    City:  Lebrija  Avg Temp.:  21.8
+    City:  Leticia  Avg Temp.:  26.6
+    City:  Manizales  Avg Temp.:  16.6
+    City:  Medellin  Avg Temp.:  22.2
+    City:  Monteria  Avg Temp.:  27.7
+    City:  Neiva  Avg Temp.:  27.5
+    City:  Palmira  Avg Temp.:  24.3
+    City:  Pasto  Avg Temp.:  13.1
+    City:  Pereira  Avg Temp.:  21.9
+    City:  Popayan  Avg Temp.:  18.8
+    City:  Providencia  Avg Temp.:  26.9
+    City:  Puerto Carreno  Avg Temp.:  28.9
+    City:  Quibdo  Avg Temp.:  26.6
+    City:  Riohacha  Avg Temp.:  27.0
+    City:  Rionegro  Avg Temp.:  17.0
+    City:  San Andres, Island  Avg Temp.:  26.8
+    City:  San Jose Del Guaviare  Avg Temp.:  27.0
+    City:  Santa Marta  Avg Temp.:  27.4
+    City:  Tumaco  Avg Temp.:  26.1
+    City:  Tunja  Avg Temp.:  13.2
+    City:  Valledupar  Avg Temp.:  28.6
+    City:  Villavicencio  Avg Temp.:  26.1
+Country:  Colombia  Avg Temp.:  23.9
+Collecting  Comoros 's temperature info
+    City:  Moroni  Avg Temp.:  26.9
+Country:  Comoros  Avg Temp.:  26.9
+Collecting  Costa Rica 's temperature info
+    City:  Alajuela  Avg Temp.:  22.6
+    City:  Canas  Avg Temp.:  27.1
+    City:  Cartago  Avg Temp.:  17.4
+    City:  Guapiles  Avg Temp.:  23.1
+    City:  Heredia  Avg Temp.:  19.4
+    City:  Liberia  Avg Temp.:  26.7
+    City:  Limon  Avg Temp.:  24.8
+    City:  Nicoya  Avg Temp.:  26.6
+    City:  Puntarenas  Avg Temp.:  27.6
+    City:  Quepos  Avg Temp.:  26.6
+    City:  San Isidro  Avg Temp.:  22.4
+    City:  San Jose  Avg Temp.:  19.4
+    City:  Turrialba  Avg Temp.:  21.1
+    City:  Upala  Avg Temp.:  25.1
+Country:  Costa Rica  Avg Temp.:  23.6
+Collecting  Cote d'Ivoire 's temperature info
+    City:  Abidjan  Avg Temp.:  25.9
+    City:  Adiake  Avg Temp.:  24.9
+    City:  Bondoukou  Avg Temp.:  26.6
+    City:  Bouake  Avg Temp.:  25.9
+    City:  Daloa  Avg Temp.:  24.1
+    City:  Odienne  Avg Temp.:  24.2
+Country:  Cote d'Ivoire  Avg Temp.:  25.3
+Collecting  Croatia 's temperature info
+    City:  Dubrovnik  Avg Temp.:  9.3
+    City:  Osijek  Avg Temp.:  -0.8
+    City:  Rijeka  Avg Temp.:  5.7
+    City:  Split  Avg Temp.:  7.8
+    City:  Zagreb  Avg Temp.:  -0.4
+Country:  Croatia  Avg Temp.:  4.3
+Collecting  Cuba 's temperature info
+    City:  Havana  Avg Temp.:  22.2
+Country:  Cuba  Avg Temp.:  22.2
+Collecting  Cyprus 's temperature info
+    City:  Larnaka Airport  Avg Temp.:  12.7
+    City:  Nicosia  Avg Temp.:  10.8
+    City:  Paphos Airport  Avg Temp.:  13.6
+    City:  Paralimni  Avg Temp.:  12.0
+    City:  Polis Chrysochous  Avg Temp.:  12.3
+    City:  Prodromos  Avg Temp.:  4.0
+Country:  Cyprus  Avg Temp.:  10.9
+Collecting  Czech Republic 's temperature info
+    City:  Brno  Avg Temp.:  -1.6
+    City:  Liberec  Avg Temp.:  -1.7
+    City:  Ostrava  Avg Temp.:  -1.3
+    City:  Pilsen  Avg Temp.:  -0.6
+    City:  Prague  Avg Temp.:  0.1
+Country:  Czech Republic  Avg Temp.:  -1.0
+Collecting  Denmark 's temperature info
+    City:  Copenhagen  Avg Temp.:  0.0
+    City:  Nuuk  Avg Temp.:  -7.5
+    City:  Torshavn  Avg Temp.:  3.0
+Country:  Denmark  Avg Temp.:  -1.5
+Collecting  Djibouti 's temperature info
+    City:  Djibouti  Avg Temp.:  25.1
+Country:  Djibouti  Avg Temp.:  25.1
+Collecting  Dominica 's temperature info
+    City:  Melville Hall Airport  Avg Temp.:  24.9
+Country:  Dominica  Avg Temp.:  24.9
+Collecting  Dominican Republic 's temperature info
+    City:  Barahona  Avg Temp.:  24.8
+    City:  La Romana  Avg Temp.:  24.6
+    City:  Montecristi  Avg Temp.:  24.0
+    City:  Puerto Plata  Avg Temp.:  23.1
+    City:  Punta Cana  Avg Temp.:  24.8
+    City:  San Juan  Avg Temp.:  22.5
+    City:  Santiago  Avg Temp.:  23.5
+    City:  Santo Domingo  Avg Temp.:  24.4
+Country:  Dominican Republic  Avg Temp.:  24.0
+Collecting  Democratic People's Republic of Korea 's temperature info
+    City:  Pyongyang  Avg Temp.:  -5.8
+Country:  Democratic People's Republic of Korea  Avg Temp.:  -5.8
+Collecting  Ecuador 's temperature info
+    City:  Cuenca  Avg Temp.:  16.6
+    City:  Guayaquil  Avg Temp.:  27.1
+    City:  Quito  Avg Temp.:  15.5
+    City:  San Cristobal-Galapagos  Avg Temp.:  26.0
+Country:  Ecuador  Avg Temp.:  21.3
+Collecting  Egypt 's temperature info
+    City:  Alexandria  Avg Temp.:  13.8
+    City:  Asswan  Avg Temp.:  15.8
+    City:  Cairo  Avg Temp.:  13.9
+    City:  Hurghada  Avg Temp.:  16.2
+    City:  Luxor  Avg Temp.:  14.3
+    City:  Sharm El-Sheikh  Avg Temp.:  17.5
+Country:  Egypt  Avg Temp.:  15.2
+Collecting  El Salvador 's temperature info
+    City:  San Salvador  Avg Temp.:  23.3
+Country:  El Salvador  Avg Temp.:  23.3
+Collecting  Eritrea 's temperature info
+    City:  Asmara  Avg Temp.:  14.1
+    City:  Assab  Avg Temp.:  25.6
+Country:  Eritrea  Avg Temp.:  19.9
+Collecting  Estonia 's temperature info
+    City:  Parnu  Avg Temp.:  -4.0
+    City:  Tallinn  Avg Temp.:  -4.0
+    City:  Tartu  Avg Temp.:  -5.1
+Country:  Estonia  Avg Temp.:  -4.4
+Collecting  Kingdom of Eswatini 's temperature info
+    City:  Manzini  Avg Temp.:  23.6
+    City:  Mbabane  Avg Temp.:  19.9
+Country:  Kingdom of Eswatini  Avg Temp.:  21.8
+Collecting  Ethiopia 's temperature info
+    City:  Addis Ababa  Avg Temp.:  16.0
+    City:  Assosa  Avg Temp.:  22.5
+    City:  Awassa  Avg Temp.:  20.0
+    City:  Bahir Dar  Avg Temp.:  18.5
+    City:  Bale Robe  Avg Temp.:  14.5
+    City:  Dire Dawa  Avg Temp.:  19.5
+    City:  Gode  Avg Temp.:  28.0
+    City:  Gondar  Avg Temp.:  20.0
+    City:  Jimma  Avg Temp.:  19.5
+    City:  Lalibela  Avg Temp.:  18.0
+    City:  Mekele  Avg Temp.:  17.5
+Country:  Ethiopia  Avg Temp.:  19.5
+Collecting  Fiji 's temperature info
+    City:  Nadi  Avg Temp.:  27.1
+    City:  Suva  Avg Temp.:  27.1
+Country:  Fiji  Avg Temp.:  27.1
+Collecting  Finland 's temperature info
+    City:  Helsinki-Vantaa  Avg Temp.:  -5.5
+    City:  Kuopio  Avg Temp.:  -9.7
+    City:  Rovaniemi  Avg Temp.:  -11.8
+    City:  Tampere  Avg Temp.:  -6.8
+    City:  Turku  Avg Temp.:  -4.7
+Country:  Finland  Avg Temp.:  -7.7
+Collecting  France 's temperature info
+    City:  Ajaccio  Avg Temp.:  8.8
+    City:  Bordeaux  Avg Temp.:  6.4
+    City:  Brest  Avg Temp.:  6.7
+    City:  Clermont Ferrand  Avg Temp.:  3.5
+    City:  Le Lamentin  Avg Temp.:  24.9
+    City:  Le Raizet, Guadeloupe  Avg Temp.:  24.5
+    City:  Lille  Avg Temp.:  3.4
+    City:  Lyon  Avg Temp.:  3.1
+    City:  Marseille  Avg Temp.:  7.1
+    City:  Nantes  Avg Temp.:  5.8
+    City:  Nice  Avg Temp.:  9.1
+    City:  Paris  Avg Temp.:  4.7
+    City:  Rochambeau  Avg Temp.:  25.9
+    City:  Strasbourg  Avg Temp.:  1.6
+    City:  Toulouse  Avg Temp.:  5.8
+Country:  France  Avg Temp.:  9.4
+Collecting  French Polynesia 's temperature info
+    City:  Tahiti  Avg Temp.:  26.9
+Country:  French Polynesia  Avg Temp.:  26.9
+Collecting  Gabon 's temperature info
+    City:  Libreville  Avg Temp.:  26.8
+Country:  Gabon  Avg Temp.:  26.8
+Collecting  Gambia 's temperature info
+    City:  Banjul  Avg Temp.:  23.7
+Country:  Gambia  Avg Temp.:  23.7
+Collecting  Georgia 's temperature info
+Collecting  Germany 's temperature info
+    City:  Berlin  Avg Temp.:  0.5
+    City:  Bremen  Avg Temp.:  1.4
+    City:  Dresden  Avg Temp.:  0.2
+    City:  Erfurt  Avg Temp.:  -0.4
+    City:  Essen  Avg Temp.:  2.4
+    City:  Frankfurt  Avg Temp.:  1.4
+    City:  Freiburg  Avg Temp.:  2.5
+    City:  Hamburg  Avg Temp.:  1.1
+    City:  Hannover  Avg Temp.:  1.2
+    City:  Kassel  Avg Temp.:  0.6
+    City:  Kiel  Avg Temp.:  2.2
+    City:  Koeln  Avg Temp.:  2.2
+    City:  Leipzig  Avg Temp.:  0.7
+    City:  Magdeburg  Avg Temp.:  0.6
+    City:  Munich  Avg Temp.:  -0.5
+    City:  Nuernberg  Avg Temp.:  -0.1
+    City:  Oberstdorf  Avg Temp.:  -1.8
+    City:  Regensburg  Avg Temp.:  -1.2
+    City:  Rostock  Avg Temp.:  0.9
+    City:  Saarbruecken  Avg Temp.:  0.9
+    City:  Stuttgart  Avg Temp.:  1.4
+    City:  Trier  Avg Temp.:  1.4
+Country:  Germany  Avg Temp.:  0.8
+Collecting  Ghana 's temperature info
+    City:  Accra  Avg Temp.:  27.8
+    City:  Kumasi  Avg Temp.:  26.1
+Country:  Ghana  Avg Temp.:  27.0
+Collecting  Greece 's temperature info
+    City:  Aktion (Preveza)  Avg Temp.:  9.7
+    City:  Alexandroupoli  Avg Temp.:  5.0
+    City:  Anchialos (Volos)  Avg Temp.:  6.9
+    City:  Athens  Avg Temp.:  8.8
+    City:  Athinai Hellinikon (South Attica)  Avg Temp.:  10.3
+    City:  Chios  Avg Temp.:  9.2
+    City:  Herakleion  Avg Temp.:  12.2
+    City:  Ioannina  Avg Temp.:  5.1
+    City:  Kalamata  Avg Temp.:  10.5
+    City:  Kastoria  Avg Temp.:  2.5
+    City:  Kefalhnia  Avg Temp.:  11.4
+    City:  Kerkyra  Avg Temp.:  9.5
+    City:  Larissa  Avg Temp.:  5.2
+    City:  Mytilini  Avg Temp.:  9.4
+    City:  Rhodes  Avg Temp.:  11.9
+    City:  Samos  Avg Temp.:  10.2
+    City:  Souda (Chania)  Avg Temp.:  11.1
+    City:  Tatoi (North Attica)  Avg Temp.:  7.6
+    City:  Thessaloniki  Avg Temp.:  5.3
+    City:  Tripolis  Avg Temp.:  5.2
+Country:  Greece  Avg Temp.:  8.3
+Collecting  Guatemala 's temperature info
+    City:  Guatemala City  Avg Temp.:  17.6
+Country:  Guatemala  Avg Temp.:  17.6
+Collecting  Guinea 's temperature info
+    City:  Boke  Avg Temp.:  26.3
+    City:  Conakry  Avg Temp.:  25.9
+    City:  Faranah  Avg Temp.:  22.8
+    City:  Kankan  Avg Temp.:  24.2
+    City:  Kindia  Avg Temp.:  25.4
+    City:  Kissidougou  Avg Temp.:  22.6
+    City:  Koundara  Avg Temp.:  25.5
+    City:  Labe  Avg Temp.:  19.4
+    City:  Macenta  Avg Temp.:  22.6
+    City:  Mamou  Avg Temp.:  22.9
+    City:  N'Zerekore  Avg Temp.:  23.4
+    City:  Siguiri  Avg Temp.:  25.0
+Country:  Guinea  Avg Temp.:  23.8
+Collecting  Guinea-Bissau 's temperature info
+    City:  Bissau  Avg Temp.:  25.7
+Country:  Guinea-Bissau  Avg Temp.:  25.7
+Collecting  Guyana 's temperature info
+    City:  Ebini  Avg Temp.:  25.6
+    City:  Georgetown  Avg Temp.:  25.9
+    City:  Kamarang  Avg Temp.:  23.0
+    City:  Lethem  Avg Temp.:  27.3
+    City:  Mabaruma  Avg Temp.:  25.3
+    City:  Timehri  Avg Temp.:  25.4
+Country:  Guyana  Avg Temp.:  25.4
+Collecting  Haiti 's temperature info
+Collecting  Honduras 's temperature info
+    City:  Tegucigalpa  Avg Temp.:  20.0
+Country:  Honduras  Avg Temp.:  20.0
+Collecting  Hong Kong 's temperature info
+    City:  Hong Kong  Avg Temp.:  16.6
+Country:  Hong Kong  Avg Temp.:  16.6
+Collecting  Hungary 's temperature info
+    City:  Budapest  Avg Temp.:  -1.4
+    City:  Debrecen  Avg Temp.:  -2.5
+    City:  Gyor  Avg Temp.:  -1.1
+    City:  Miskolc  Avg Temp.:  -3.1
+    City:  Pecs  Avg Temp.:  -1.2
+    City:  Szeged  Avg Temp.:  -1.5
+Country:  Hungary  Avg Temp.:  -1.8
+Collecting  Iceland 's temperature info
+    City:  Reykjavik  Avg Temp.:  -0.6
+Country:  Iceland  Avg Temp.:  -0.6
+Collecting  India 's temperature info
+    City:  Agartala  Avg Temp.:  17.8
+    City:  Agra  Avg Temp.:  15.0
+    City:  Ahmedabad  Avg Temp.:  20.9
+    City:  Aizwal  Avg Temp.:  15.9
+    City:  Ajmer  Avg Temp.:  15.2
+    City:  Akola  Avg Temp.:  21.5
+    City:  Allahabad  Avg Temp.:  16.2
+    City:  Ambikapur  Avg Temp.:  16.1
+    City:  Amritsar  Avg Temp.:  11.5
+    City:  Aurangabad  Avg Temp.:  20.0
+    City:  Balasore  Avg Temp.:  20.4
+    City:  Bangalore  Avg Temp.:  21.2
+    City:  Bareilly  Avg Temp.:  15.0
+    City:  Baroda  Avg Temp.:  21.0
+    City:  Bhagalpur  Avg Temp.:  17.9
+    City:  Bhopal  Avg Temp.:  17.9
+    City:  Bhubaneshwar  Avg Temp.:  22.0
+    City:  Bhuj  Avg Temp.:  18.0
+    City:  Bikaner  Avg Temp.:  14.6
+    City:  Chandigarh  Avg Temp.:  13.2
+    City:  Chennai  Avg Temp.:  24.6
+    City:  Coimbatore  Avg Temp.:  24.1
+    City:  Cooch Behar  Avg Temp.:  16.6
+    City:  Dehradun  Avg Temp.:  12.7
+    City:  Dharamsala  Avg Temp.:  10.4
+    City:  Dibrugarh  Avg Temp.:  15.9
+    City:  Gadag  Avg Temp.:  23.3
+    City:  Gangtok  Avg Temp.:  8.4
+    City:  Gaya  Avg Temp.:  16.9
+    City:  Goa  Avg Temp.:  25.6
+    City:  Gopalpur  Avg Temp.:  22.0
+    City:  Gorakhpur  Avg Temp.:  16.0
+    City:  Gulbarga  Avg Temp.:  23.4
+    City:  Guwahati  Avg Temp.:  16.9
+    City:  Gwalior  Avg Temp.:  14.9
+    City:  Hissar  Avg Temp.:  13.6
+    City:  Hyderabad  Avg Temp.:  22.0
+    City:  Imphal  Avg Temp.:  12.8
+    City:  Indore  Avg Temp.:  18.2
+    City:  Jabalpur  Avg Temp.:  17.6
+    City:  Jagdalpur  Avg Temp.:  19.9
+    City:  Jaipur  Avg Temp.:  15.3
+    City:  Jaisalmer  Avg Temp.:  15.6
+    City:  Jammu  Avg Temp.:  13.2
+    City:  Jamshedpur  Avg Temp.:  18.9
+    City:  Jharsuguda  Avg Temp.:  19.9
+    City:  Jodhpur  Avg Temp.:  17.3
+    City:  Kanpur  Avg Temp.:  15.8
+    City:  Kanyakumari  Avg Temp.:  27.1
+    City:  Karnal  Avg Temp.:  13.5
+    City:  Kochi  Avg Temp.:  26.6
+    City:  Kodaikanal  Avg Temp.:  12.8
+    City:  Kohima  Avg Temp.:  12.4
+    City:  Kolkata  Avg Temp.:  19.9
+    City:  Kota  Avg Temp.:  17.3
+    City:  Kozhikode  Avg Temp.:  27.6
+    City:  Lucknow  Avg Temp.:  14.9
+    City:  Ludhiana  Avg Temp.:  12.9
+    City:  Madurai  Avg Temp.:  25.3
+    City:  Malda  Avg Temp.:  17.8
+    City:  Mangalore  Avg Temp.:  26.8
+    City:  Minicoy  Avg Temp.:  26.8
+    City:  Mukteshwar  Avg Temp.:  6.0
+    City:  Mumbai  Avg Temp.:  23.7
+    City:  Mysore  Avg Temp.:  22.4
+    City:  Nagpur  Avg Temp.:  20.9
+    City:  Nasik  Avg Temp.:  20.4
+    City:  New Delhi (Palam)  Avg Temp.:  13.8
+    City:  New Delhi (SFD)  Avg Temp.:  14.3
+    City:  Parbhani  Avg Temp.:  22.0
+    City:  Passighat  Avg Temp.:  17.6
+    City:  Patna  Avg Temp.:  16.1
+    City:  Port Blair  Avg Temp.:  26.2
+    City:  Puducherry  Avg Temp.:  25.0
+    City:  Pune  Avg Temp.:  20.9
+    City:  Raipur  Avg Temp.:  20.5
+    City:  Rajkot  Avg Temp.:  20.0
+    City:  Ranchi  Avg Temp.:  16.5
+    City:  Shillong  Avg Temp.:  9.9
+    City:  Shimla  Avg Temp.:  5.2
+    City:  Silchar  Avg Temp.:  18.3
+    City:  Solapur  Avg Temp.:  23.3
+    City:  Srinagar  Avg Temp.:  1.4
+    City:  Sriniketan  Avg Temp.:  18.4
+    City:  Surat  Avg Temp.:  22.8
+    City:  Thiruvananthapuram  Avg Temp.:  26.5
+    City:  Tiruchirapalli  Avg Temp.:  27.4
+    City:  Udaipur  Avg Temp.:  15.7
+    City:  Varanasi  Avg Temp.:  16.0
+    City:  Vijayawada  Avg Temp.:  24.4
+    City:  Vishakhapatnam  Avg Temp.:  24.1
+Country:  India  Avg Temp.:  18.3
+Collecting  Indonesia 's temperature info
+    City:  Ambon  Avg Temp.:  27.2
+    City:  Biak  Avg Temp.:  26.7
+    City:  Denpasar  Avg Temp.:  28.6
+    City:  Jakarta  Avg Temp.:  27.0
+    City:  Lombok  Avg Temp.:  27.2
+    City:  Manado  Avg Temp.:  26.0
+    City:  Medan  Avg Temp.:  26.9
+    City:  Pontianak  Avg Temp.:  27.5
+    City:  Surabaya  Avg Temp.:  28.0
+    City:  Ujung Pandang  Avg Temp.:  26.9
+Country:  Indonesia  Avg Temp.:  27.2
+Collecting  Iran 's temperature info
+    City:  Ahwaz  Avg Temp.:  11.9
+    City:  Arak  Avg Temp.:  -0.8
+    City:  Ardabil  Avg Temp.:  -2.5
+    City:  Bandarabbas  Avg Temp.:  17.8
+    City:  Birjand  Avg Temp.:  4.3
+    City:  Bojnoord  Avg Temp.:  1.4
+    City:  Bushehr  Avg Temp.:  14.2
+    City:  Esfahan  Avg Temp.:  3.2
+    City:  Ghazvin  Avg Temp.:  0.2
+    City:  Ghom  Avg Temp.:  3.9
+    City:  Gorgan  Avg Temp.:  7.9
+    City:  Hamedan  Avg Temp.:  -4.2
+    City:  Ilam  Avg Temp.:  4.7
+    City:  Kerman  Avg Temp.:  3.9
+    City:  Kermanshah  Avg Temp.:  1.1
+    City:  Khoramabad  Avg Temp.:  5.5
+    City:  Mashhad  Avg Temp.:  0.8
+    City:  Orumiyeh  Avg Temp.:  -1.7
+    City:  Rasht  Avg Temp.:  6.8
+    City:  Sanandaj  Avg Temp.:  -0.6
+    City:  Sari  Avg Temp.:  8.8
+    City:  Semnan  Avg Temp.:  4.0
+    City:  Shahrekord  Avg Temp.:  -1.7
+    City:  Shiraz  Avg Temp.:  5.8
+    City:  Tabriz  Avg Temp.:  -2.7
+    City:  Tehran  Avg Temp.:  3.0
+    City:  Yasouj  Avg Temp.:  3.2
+    City:  Yazd  Avg Temp.:  5.7
+    City:  Zahedan  Avg Temp.:  6.8
+    City:  Zanjan  Avg Temp.:  -3.0
+Country:  Iran  Avg Temp.:  3.6
+Collecting  Iraq 's temperature info
+    City:  Amarah  Avg Temp.:  11.3
+    City:  Baghdad  Avg Temp.:  9.7
+    City:  Karbala  Avg Temp.:  10.6
+    City:  Kirkuk  Avg Temp.:  9.2
+    City:  Mosul  Avg Temp.:  7.3
+    City:  Nasiriya  Avg Temp.:  11.6
+Country:  Iraq  Avg Temp.:  9.9
+Collecting  Ireland 's temperature info
+    City:  Belmullet  Avg Temp.:  6.3
+    City:  Cork  Avg Temp.:  5.6
+    City:  Donegal  Avg Temp.:  5.3
+    City:  Dublin  Avg Temp.:  5.2
+    City:  Galway  Avg Temp.:  5.8
+    City:  Kerry  Avg Temp.:  7.2
+    City:  Kilkenny  Avg Temp.:  5.0
+    City:  Malin Head  Avg Temp.:  5.8
+    City:  Mayo  Avg Temp.:  4.8
+    City:  Offaly  Avg Temp.:  5.1
+    City:  Shannon Airport  Avg Temp.:  6.0
+    City:  Wexford  Avg Temp.:  5.9
+Country:  Ireland  Avg Temp.:  5.7
+Collecting  Israel 's temperature info
+    City:  Afula  Avg Temp.:  11.4
+    City:  Beer Sheva  Avg Temp.:  12.4
+    City:  Eilat  Avg Temp.:  15.9
+    City:  Haifa  Avg Temp.:  12.5
+    City:  Jerusalem  Avg Temp.:  9.9
+    City:  Lod  Avg Temp.:  13.6
+    City:  Mizpe Ramon  Avg Temp.:  9.9
+    City:  Nazareth  Avg Temp.:  11.2
+    City:  Tel Aviv  Avg Temp.:  13.7
+    City:  Tiberias  Avg Temp.:  14.2
+    City:  Zefat  Avg Temp.:  7.6
+Country:  Israel  Avg Temp.:  12.0
+Collecting  Italy 's temperature info
+    City:  Agrigento  Avg Temp.:  11.9
+    City:  Alghero  Avg Temp.:  9.8
+    City:  Ancona  Avg Temp.:  5.3
+    City:  Bari  Avg Temp.:  8.8
+    City:  Bologna  Avg Temp.:  2.8
+    City:  Bolzano  Avg Temp.:  0.9
+    City:  Cagliari  Avg Temp.:  9.9
+    City:  Campobasso  Avg Temp.:  4.3
+    City:  Catania  Avg Temp.:  10.4
+    City:  Crotone  Avg Temp.:  9.2
+    City:  Florence (FIRENZE)  Avg Temp.:  6.5
+    City:  Genova  Avg Temp.:  8.5
+    City:  Isola d'Elba  Avg Temp.:  7.4
+    City:  Lecce  Avg Temp.:  8.6
+    City:  Milan (MILANO)  Avg Temp.:  2.5
+    City:  Naples (NAPOLI)  Avg Temp.:  8.7
+    City:  Palermo  Avg Temp.:  11.8
+    City:  Perugia  Avg Temp.:  4.8
+    City:  Pescara  Avg Temp.:  6.5
+    City:  Piacenza  Avg Temp.:  1.7
+    City:  Pisa  Avg Temp.:  6.8
+    City:  Potenza  Avg Temp.:  4.0
+    City:  Reggio Calabria  Avg Temp.:  11.6
+    City:  Rome (ROMA)  Avg Temp.:  7.5
+    City:  Torino  Avg Temp.:  2.0
+    City:  Udine  Avg Temp.:  3.6
+    City:  Venice (VENEZIA)  Avg Temp.:  3.2
+    City:  Verona  Avg Temp.:  2.4
+    City:  Vieste  Avg Temp.:  9.2
+Country:  Italy  Avg Temp.:  6.6
+Collecting  Jamaica 's temperature info
+    City:  Kingston  Avg Temp.:  25.7
+    City:  Montego Bay  Avg Temp.:  24.3
+Country:  Jamaica  Avg Temp.:  25.0
+Collecting  Japan 's temperature info
+    City:  Fukuoka  Avg Temp.:  6.7
+    City:  Nagoya  Avg Temp.:  4.9
+    City:  Naha  Avg Temp.:  17.1
+    City:  Osaka  Avg Temp.:  6.2
+    City:  Sapporo  Avg Temp.:  -3.8
+    City:  Sendai  Avg Temp.:  1.8
+    City:  Tokyo  Avg Temp.:  6.2
+Country:  Japan  Avg Temp.:  5.6
+Collecting  Jordan 's temperature info
+    City:  Amman  Avg Temp.:  8.0
+    City:  Aqaba  Avg Temp.:  14.7
+    City:  Irbid  Avg Temp.:  8.9
+Country:  Jordan  Avg Temp.:  10.5
+Collecting  Kazakhstan 's temperature info
+    City:  Almaty  Avg Temp.:  -6.2
+    City:  Astana  Avg Temp.:  -17.3
+Country:  Kazakhstan  Avg Temp.:  -11.8
+Collecting  Kenya 's temperature info
+    City:  Eldoret  Avg Temp.:  17.2
+    City:  Embu  Avg Temp.:  21.2
+    City:  Garissa  Avg Temp.:  28.8
+    City:  Kakamega  Avg Temp.:  21.4
+    City:  Kericho  Avg Temp.:  18.1
+    City:  Kisii  Avg Temp.:  21.1
+    City:  Kisumu  Avg Temp.:  27.2
+    City:  Kitale  Avg Temp.:  19.1
+    City:  Lamu  Avg Temp.:  27.7
+    City:  Lodwar  Avg Temp.:  28.9
+    City:  Machakos  Avg Temp.:  19.8
+    City:  Makindu  Avg Temp.:  23.1
+    City:  Malindi  Avg Temp.:  27.1
+    City:  Marsabit  Avg Temp.:  20.4
+    City:  Meru  Avg Temp.:  18.1
+    City:  Mombasa  Avg Temp.:  27.6
+    City:  Moyale  Avg Temp.:  25.0
+    City:  Nairobi  Avg Temp.:  18.0
+    City:  Nakuru  Avg Temp.:  18.0
+    City:  Narok  Avg Temp.:  18.1
+    City:  Nyeri  Avg Temp.:  18.1
+    City:  Voi  Avg Temp.:  25.9
+    City:  Wajir  Avg Temp.:  29.5
+Country:  Kenya  Avg Temp.:  22.6
+Collecting  Kuwait 's temperature info
+    City:  Kuwait Airport  Avg Temp.:  12.8
+    City:  Kuwait City  Avg Temp.:  14.0
+Country:  Kuwait  Avg Temp.:  13.4
+Collecting  Kyrgyzstan 's temperature info
+    City:  Bishkek  Avg Temp.:  -2.9
+    City:  Osh  Avg Temp.:  -2.4
+Country:  Kyrgyzstan  Avg Temp.:  -2.6
+Collecting  Latvia 's temperature info
+    City:  Daugavpils  Avg Temp.:  -6.6
+    City:  Liepaja  Avg Temp.:  -2.8
+    City:  Riga  Avg Temp.:  -5.0
+    City:  Ventspils  Avg Temp.:  -3.0
+Country:  Latvia  Avg Temp.:  -4.3
+Collecting  Lebanon 's temperature info
+Collecting  Lesotho 's temperature info
+Collecting  Libya 's temperature info
+    City:  Benghazi  Avg Temp.:  12.7
+    City:  Ghadames  Avg Temp.:  10.6
+    City:  Ghat  Avg Temp.:  11.5
+    City:  Sebha  Avg Temp.:  11.7
+    City:  Sirte  Avg Temp.:  13.7
+    City:  Tripoli  Avg Temp.:  13.4
+Country:  Libya  Avg Temp.:  12.3
+Collecting  Lithuania 's temperature info
+    City:  Kaunas  Avg Temp.:  -3.4
+    City:  Klaipeda  Avg Temp.:  -1.2
+    City:  Panevezys  Avg Temp.:  -3.5
+    City:  Siauliai  Avg Temp.:  -3.1
+    City:  Vilnius  Avg Temp.:  -4.0
+Country:  Lithuania  Avg Temp.:  -3.0
+Collecting  Luxembourg 's temperature info
+    City:  Luxembourg  Avg Temp.:  0.8
+Country:  Luxembourg  Avg Temp.:  0.8
+Collecting  Macao 's temperature info
+    City:  Macao  Avg Temp.:  14.9
+Country:  Macao  Avg Temp.:  14.9
+Collecting  Madagascar 's temperature info
+    City:  Antananarivo  Avg Temp.:  22.1
+    City:  Antsiranana  Avg Temp.:  26.5
+    City:  Fianarantsoa  Avg Temp.:  21.7
+    City:  Mahajanga  Avg Temp.:  27.4
+    City:  Toamasina  Avg Temp.:  26.3
+    City:  Toliara  Avg Temp.:  27.6
+Country:  Madagascar  Avg Temp.:  25.3
+Collecting  Malawi 's temperature info
+    City:  Mzuzu  Avg Temp.:  20.8
+Country:  Malawi  Avg Temp.:  20.8
+Collecting  Malaysia 's temperature info
+    City:  Alor Setar  Avg Temp.:  27.4
+    City:  Cameron Highlands  Avg Temp.:  18.0
+    City:  Ipoh  Avg Temp.:  27.8
+    City:  Johor Bahru  Avg Temp.:  26.4
+    City:  Kota Bharu  Avg Temp.:  26.1
+    City:  Kota Kinabalu  Avg Temp.:  26.6
+    City:  Kuala Lumpur  Avg Temp.:  27.3
+    City:  Kuantan  Avg Temp.:  25.7
+    City:  Kuching  Avg Temp.:  26.4
+    City:  Labuan  Avg Temp.:  27.3
+    City:  Langkawi  Avg Temp.:  28.6
+    City:  Melaka  Avg Temp.:  27.2
+    City:  Miri  Avg Temp.:  26.5
+    City:  Petaling Jaya  Avg Temp.:  27.8
+    City:  Pulau Pinang  Avg Temp.:  27.7
+    City:  Sandakan  Avg Temp.:  26.5
+    City:  Sibu  Avg Temp.:  26.6
+Country:  Malaysia  Avg Temp.:  26.5
+Collecting  Maldives 's temperature info
+    City:  Gan - Addu Atoll  Avg Temp.:  27.6
+    City:  Hanimaadhoo  Avg Temp.:  27.8
+    City:  Male'  Avg Temp.:  28.0
+Country:  Maldives  Avg Temp.:  27.8
+Collecting  Mali 's temperature info
+    City:  Bamako  Avg Temp.:  25.2
+    City:  Gao  Avg Temp.:  22.8
+    City:  Kayes  Avg Temp.:  25.2
+    City:  Kidal  Avg Temp.:  20.2
+    City:  Mopti  Avg Temp.:  23.4
+    City:  Segou  Avg Temp.:  24.5
+    City:  Sikasso  Avg Temp.:  24.4
+    City:  Tombouctou  Avg Temp.:  21.5
+Country:  Mali  Avg Temp.:  23.4
+Collecting  Malta 's temperature info
+    City:  Luqa, Malta  Avg Temp.:  12.2
+Country:  Malta  Avg Temp.:  12.2
+Collecting  Mauritius 's temperature info
+    City:  Plaisance  Avg Temp.:  26.4
+    City:  Port Louis  Avg Temp.:  27.8
+    City:  Vacoas  Avg Temp.:  24.0
+Country:  Mauritius  Avg Temp.:  26.1
+Collecting  Mexico 's temperature info
+    City:  Acapulco  Avg Temp.:  26.8
+    City:  Aguascalientes  Avg Temp.:  13.4
+    City:  Cancun  Avg Temp.:  24.2
+    City:  Chihuahua  Avg Temp.:  9.1
+    City:  Ciudad de Mexico  Avg Temp.:  13.5
+    City:  Ciudad Juarez  Avg Temp.:  7.8
+    City:  Cozumel  Avg Temp.:  24.0
+    City:  Cuernavaca  Avg Temp.:  18.6
+    City:  Culiacan  Avg Temp.:  19.1
+    City:  Guadalajara  Avg Temp.:  17.4
+    City:  Hermosillo  Avg Temp.:  16.6
+    City:  Huatulco  Avg Temp.:  25.9
+    City:  Ixtapa Zihuatanejo  Avg Temp.:  25.1
+    City:  Jalapa  Avg Temp.:  16.6
+    City:  Leon  Avg Temp.:  15.4
+    City:  Los Cabos  Avg Temp.:  18.8
+    City:  Manzanillo  Avg Temp.:  24.9
+    City:  Mazatlan  Avg Temp.:  19.9
+    City:  Merida  Avg Temp.:  24.1
+    City:  Mexicali  Avg Temp.:  13.2
+    City:  Monterrey  Avg Temp.:  14.4
+    City:  Morelia  Avg Temp.:  15.1
+    City:  Puebla  Avg Temp.:  13.8
+    City:  Puerto Vallarta  Avg Temp.:  22.8
+    City:  Queretaro  Avg Temp.:  15.1
+    City:  Reynosa  Avg Temp.:  16.2
+    City:  Saltillo  Avg Temp.:  12.1
+    City:  San Luis Potosi  Avg Temp.:  13.1
+    City:  Tampico  Avg Temp.:  18.9
+    City:  Tijuana  Avg Temp.:  14.0
+    City:  Toluca  Avg Temp.:  10.0
+    City:  Torreon  Avg Temp.:  14.6
+    City:  Veracruz  Avg Temp.:  21.5
+    City:  Villahermosa  Avg Temp.:  23.8
+Country:  Mexico  Avg Temp.:  17.6
+Collecting  Republic of Moldova 's temperature info
+    City:  Balti  Avg Temp.:  -4.0
+    City:  Cahul  Avg Temp.:  -2.8
+    City:  Chisinau  Avg Temp.:  -3.0
+    City:  Tiraspol  Avg Temp.:  -2.7
+Country:  Republic of Moldova  Avg Temp.:  -3.1
+Collecting  Mongolia 's temperature info
+    City:  Arvaikheer  Avg Temp.:  -13.9
+    City:  Baganuur district  Avg Temp.:  -24.8
+    City:  Baruun-Urt  Avg Temp.:  -20.9
+    City:  Bayankhongor  Avg Temp.:  -17.4
+    City:  Bulgan  Avg Temp.:  -19.8
+    City:  Choibalsan  Avg Temp.:  -21.6
+    City:  Choir  Avg Temp.:  -19.9
+    City:  Dalanzadgad  Avg Temp.:  -13.2
+    City:  Darkhan  Avg Temp.:  -23.6
+    City:  Erdenet  Avg Temp.:  -16.9
+    City:  Govi-Altai  Avg Temp.:  -16.9
+    City:  Khanbogd  Avg Temp.:  -10.9
+    City:  Kharkhorin  Avg Temp.:  -16.4
+    City:  Khatgal  Avg Temp.:  -22.4
+    City:  Khovd  Avg Temp.:  -22.4
+    City:  Mandalgovi  Avg Temp.:  -16.7
+    City:  Murun  Avg Temp.:  -21.2
+    City:  Sainshand  Avg Temp.:  -17.2
+    City:  Sukhbaatar  Avg Temp.:  -22.3
+    City:  Tosontsengel  Avg Temp.:  -31.8
+    City:  Tsetserleg  Avg Temp.:  -14.1
+    City:  Ulaanbaatar  Avg Temp.:  -20.8
+    City:  Ulaangom  Avg Temp.:  -30.8
+    City:  Ulgii  Avg Temp.:  -16.0
+    City:  Uliastai  Avg Temp.:  -21.5
+    City:  Undurkhaan  Avg Temp.:  -22.7
+    City:  ZamiinUud  Avg Temp.:  -18.0
+    City:  Zuunmod  Avg Temp.:  -19.5
+Country:  Mongolia  Avg Temp.:  -19.8
+Collecting  Montenegro 's temperature info
+    City:  Podgorica  Avg Temp.:  5.5
+Country:  Montenegro  Avg Temp.:  5.5
+Collecting  Morocco 's temperature info
+    City:  Casablanca  Avg Temp.:  12.2
+    City:  Marrakech  Avg Temp.:  11.3
+Country:  Morocco  Avg Temp.:  11.8
+Collecting  Mozambique 's temperature info
+    City:  Beira  Avg Temp.:  27.6
+    City:  Chimoio  Avg Temp.:  23.9
+    City:  Inhambane  Avg Temp.:  26.9
+    City:  Lichinga  Avg Temp.:  20.3
+    City:  Maputo  Avg Temp.:  26.1
+    City:  Nampula  Avg Temp.:  26.0
+    City:  Pemba  Avg Temp.:  27.0
+    City:  Quelimane  Avg Temp.:  27.9
+    City:  Tete  Avg Temp.:  28.4
+    City:  Vilanculos  Avg Temp.:  27.1
+    City:  Xai-Xai  Avg Temp.:  26.4
+Country:  Mozambique  Avg Temp.:  26.1
+Collecting  Myanmar 's temperature info
+    City:  Coco-Island  Avg Temp.:  25.8
+    City:  Dawei  Avg Temp.:  25.8
+    City:  Hkamti  Avg Temp.:  17.6
+    City:  Homalin  Avg Temp.:  18.0
+    City:  Hpa-an  Avg Temp.:  25.8
+    City:  Kalewa  Avg Temp.:  19.5
+    City:  Katha  Avg Temp.:  18.9
+    City:  Kengtung  Avg Temp.:  18.6
+    City:  Lashio  Avg Temp.:  15.4
+    City:  Mandalay  Avg Temp.:  21.0
+    City:  Meiktila  Avg Temp.:  22.2
+    City:  Mindat  Avg Temp.:  15.3
+    City:  Monywa  Avg Temp.:  21.2
+    City:  Myitkyina  Avg Temp.:  17.9
+    City:  Naypyitaw  Avg Temp.:  22.4
+    City:  Pathein  Avg Temp.:  24.7
+    City:  Putao  Avg Temp.:  24.3
+    City:  Pyay  Avg Temp.:  24.2
+    City:  Sagaing  Avg Temp.:  21.6
+    City:  Sittwe  Avg Temp.:  21.6
+    City:  Taunggyi  Avg Temp.:  15.6
+    City:  Taungoo  Avg Temp.:  22.9
+    City:  Thandwe  Avg Temp.:  21.6
+    City:  Yangon  Avg Temp.:  25.1
+    City:  Yay  Avg Temp.:  24.8
+Country:  Myanmar  Avg Temp.:  21.3
+Collecting  Namibia 's temperature info
+    City:  Windhoek  Avg Temp.:  24.0
+Country:  Namibia  Avg Temp.:  24.0
+Collecting  Nepal 's temperature info
+    City:  Birendranagar  Avg Temp.:  12.6
+    City:  Dhankuta  Avg Temp.:  12.4
+    City:  Dipayal  Avg Temp.:  13.6
+    City:  Kathmandu  Avg Temp.:  10.1
+    City:  Pokhara  Avg Temp.:  13.4
+Country:  Nepal  Avg Temp.:  12.4
+Collecting  Netherlands 's temperature info
+    City:  Amsterdam (Schiphol)  Avg Temp.:  3.0
+    City:  De Bilt  Avg Temp.:  2.6
+    City:  Den Helder  Avg Temp.:  3.0
+    City:  Groningen  Avg Temp.:  1.8
+    City:  Maastricht  Avg Temp.:  2.5
+    City:  Twenthe  Avg Temp.:  1.9
+    City:  Vlissingen  Avg Temp.:  3.8
+Country:  Netherlands  Avg Temp.:  2.7
+Collecting  Netherlands Antilles and Aruba 's temperature info
+    City:  Oranjestad  Avg Temp.:  27.2
+Country:  Netherlands Antilles and Aruba  Avg Temp.:  27.2
+Collecting  New Caledonia 's temperature info
+    City:  Noumea  Avg Temp.:  25.9
+Country:  New Caledonia  Avg Temp.:  25.9
+Collecting  New Zealand 's temperature info
+    City:  Ashburton  Avg Temp.:  17.3
+    City:  Auckland  Avg Temp.:  19.8
+    City:  Blenheim  Avg Temp.:  18.1
+    City:  Christchurch  Avg Temp.:  17.2
+    City:  Dargaville  Avg Temp.:  19.1
+    City:  Dunedin  Avg Temp.:  15.2
+    City:  Gisborne  Avg Temp.:  19.3
+    City:  Gore  Avg Temp.:  14.4
+    City:  Hamilton  Avg Temp.:  18.4
+    City:  Hokitika  Avg Temp.:  15.7
+    City:  Invercargill  Avg Temp.:  14.2
+    City:  Kaikoura  Avg Temp.:  16.7
+    City:  Kaitaia  Avg Temp.:  19.4
+    City:  Levin  Avg Temp.:  17.6
+    City:  Milford Sound  Avg Temp.:  15.1
+    City:  Motueka  Avg Temp.:  17.6
+    City:  Mount Cook  Avg Temp.:  14.6
+    City:  Napier  Avg Temp.:  18.8
+    City:  Nelson  Avg Temp.:  17.8
+    City:  New Plymouth  Avg Temp.:  17.8
+    City:  Oamaru  Avg Temp.:  15.5
+    City:  Palmerston North  Avg Temp.:  17.8
+    City:  Paraparaumu  Avg Temp.:  17.2
+    City:  Queenstown  Avg Temp.:  15.7
+    City:  Reefton  Avg Temp.:  16.9
+    City:  Rotorua  Avg Temp.:  17.7
+    City:  Taumarunui  Avg Temp.:  18.1
+    City:  Taupo  Avg Temp.:  17.1
+    City:  Tauranga  Avg Temp.:  19.5
+    City:  Te Kuiti  Avg Temp.:  18.4
+    City:  Thames  Avg Temp.:  19.4
+    City:  Timaru  Avg Temp.:  16.0
+    City:  Wanaka  Avg Temp.:  17.2
+    City:  Wellington  Avg Temp.:  17.9
+    City:  Westport  Avg Temp.:  16.2
+    City:  Whakatane  Avg Temp.:  18.9
+    City:  Whanganui  Avg Temp.:  18.0
+    City:  Whangarei  Avg Temp.:  19.9
+    City:  Whitianga  Avg Temp.:  18.9
+Country:  New Zealand  Avg Temp.:  17.4
+Collecting  Nicaragua 's temperature info
+Collecting  Niger 's temperature info
+    City:  Niamey  Avg Temp.:  24.3
+Country:  Niger  Avg Temp.:  24.3
+Collecting  Nigeria 's temperature info
+    City:  Abuja  Avg Temp.:  27.6
+    City:  Kano  Avg Temp.:  21.4
+    City:  Lagos  Avg Temp.:  27.2
+    City:  Port-Harcourt  Avg Temp.:  26.8
+    City:  Sokoto  Avg Temp.:  24.5
+    City:  Yola  Avg Temp.:  26.0
+Country:  Nigeria  Avg Temp.:  25.6
+Collecting  Norway 's temperature info
+    City:  Bergen  Avg Temp.:  1.6
+    City:  Kristiansand  Avg Temp.:  -1.8
+    City:  Oslo  Avg Temp.:  -4.3
+    City:  Tromsoe  Avg Temp.:  -4.3
+    City:  Trondheim  Avg Temp.:  -3.2
+Country:  Norway  Avg Temp.:  -2.4
+Collecting  Oman 's temperature info
+    City:  Bahla  Avg Temp.:  17.1
+    City:  Buraimi  Avg Temp.:  17.5
+    City:  Dibba  Avg Temp.:  19.2
+    City:  Duqam Airport  Avg Temp.:  20.9
+    City:  Fahud  Avg Temp.:  18.6
+    City:  Haima  Avg Temp.:  19.8
+    City:  Halaniyat  Avg Temp.:  23.4
+    City:  Ibra  Avg Temp.:  18.1
+    City:  Ibri  Avg Temp.:  18.7
+    City:  Jabal_Qamar  Avg Temp.:  16.5
+    City:  Jabal_Samhan  Avg Temp.:  16.5
+    City:  Madha  Avg Temp.:  19.2
+    City:  Marmul  Avg Temp.:  18.9
+    City:  Masirah  Avg Temp.:  22.5
+    City:  Mhout  Avg Temp.:  20.9
+    City:  Mudhebi  Avg Temp.:  18.1
+    City:  Muscat (Seeb)  Avg Temp.:  20.9
+    City:  Nizwa  Avg Temp.:  19.2
+    City:  Qairoon  Avg Temp.:  16.5
+    City:  Raysut  Avg Temp.:  23.4
+    City:  Rustaq  Avg Temp.:  19.5
+    City:  Saiq  Avg Temp.:  10.0
+    City:  Salalah  Avg Temp.:  23.1
+    City:  Salalah Port  Avg Temp.:  23.4
+    City:  Samail  Avg Temp.:  19.9
+    City:  Sohar  Avg Temp.:  19.1
+    City:  Sur  Avg Temp.:  22.0
+    City:  Suwiq  Avg Temp.:  19.1
+    City:  Thumrait  Avg Temp.:  18.9
+Country:  Oman  Avg Temp.:  19.3
+Collecting  Pakistan 's temperature info
+    City:  Faisalabad  Avg Temp.:  11.8
+    City:  Gilgit  Avg Temp.:  3.8
+    City:  Hyderabad  Avg Temp.:  18.1
+    City:  Islamabad  Avg Temp.:  10.5
+    City:  Karachi  Avg Temp.:  18.9
+    City:  Lahore  Avg Temp.:  13.3
+    City:  Multan  Avg Temp.:  12.9
+    City:  Murree  Avg Temp.:  3.7
+    City:  Muzaffarabad  Avg Temp.:  9.8
+    City:  Nawabshah  Avg Temp.:  15.4
+    City:  Peshawar  Avg Temp.:  11.5
+    City:  Quetta  Avg Temp.:  4.8
+Country:  Pakistan  Avg Temp.:  11.2
+Collecting  Panama 's temperature info
+    City:  Anton  Avg Temp.:  27.2
+    City:  Bocas del Toro  Avg Temp.:  25.6
+    City:  David  Avg Temp.:  26.6
+    City:  Los Santos  Avg Temp.:  26.2
+    City:  Panama City  Avg Temp.:  25.9
+    City:  Santiago  Avg Temp.:  26.0
+Country:  Panama  Avg Temp.:  26.2
+Collecting  Papua New Guinea 's temperature info
+    City:  Daru  Avg Temp.:  27.9
+    City:  Goroka  Avg Temp.:  21.1
+    City:  Kavieng  Avg Temp.:  27.4
+    City:  Lae City  Avg Temp.:  27.9
+    City:  Madang  Avg Temp.:  27.4
+    City:  Port Moresby  Avg Temp.:  27.9
+    City:  Rabaul  Avg Temp.:  27.1
+    City:  Vanimo  Avg Temp.:  27.5
+    City:  Wewak  Avg Temp.:  27.4
+Country:  Papua New Guinea  Avg Temp.:  26.8
+Collecting  Paraguay 's temperature info
+    City:  Asuncion  Avg Temp.:  28.1
+    City:  Ciudad Del Este  Avg Temp.:  26.9
+    City:  Encarnacion  Avg Temp.:  26.6
+    City:  Mariscal Jose Felix Estigarribia  Avg Temp.:  29.1
+    City:  Pedro Juan Caballero  Avg Temp.:  25.1
+Country:  Paraguay  Avg Temp.:  27.2
+Collecting  Peru 's temperature info
+    City:  Arequipa  Avg Temp.:  15.1
+    City:  Cajamarca  Avg Temp.:  14.2
+    City:  Cuzco  Avg Temp.:  12.8
+    City:  Iquitos  Avg Temp.:  26.5
+    City:  Lima  Avg Temp.:  22.5
+    City:  Piura  Avg Temp.:  26.8
+    City:  Tacna  Avg Temp.:  21.8
+    City:  Trujillo  Avg Temp.:  21.2
+Country:  Peru  Avg Temp.:  20.1
+Collecting  Philippines 's temperature info
+    City:  Metro Manila  Avg Temp.:  26.5
+Country:  Philippines  Avg Temp.:  26.5
+Collecting  Poland 's temperature info
+    City:  Bialystok  Avg Temp.:  -3.2
+    City:  Gdansk  Avg Temp.:  -1.2
+    City:  Klodzko  Avg Temp.:  -2.1
+    City:  Koszalin  Avg Temp.:  -0.1
+    City:  Krakow  Avg Temp.:  -2.0
+    City:  Lodz  Avg Temp.:  -1.8
+    City:  Lublin  Avg Temp.:  -2.9
+    City:  Olsztyn  Avg Temp.:  -2.3
+    City:  Poznan  Avg Temp.:  -0.8
+    City:  Rzeszow  Avg Temp.:  -2.4
+    City:  Suwalki  Avg Temp.:  -3.6
+    City:  Szczecin  Avg Temp.:  0.1
+    City:  Torun  Avg Temp.:  -1.6
+    City:  Warsaw  Avg Temp.:  -1.9
+    City:  Wroclaw  Avg Temp.:  -0.8
+    City:  Zielona Gora  Avg Temp.:  -0.7
+Country:  Poland  Avg Temp.:  -1.7
+Collecting  Portugal 's temperature info
+    City:  Angra do Heroismo  Avg Temp.:  13.8
+    City:  Aveiro  Avg Temp.:  10.2
+    City:  Beja  Avg Temp.:  9.6
+    City:  Braga  Avg Temp.:  8.8
+    City:  Braganca  Avg Temp.:  4.4
+    City:  Castelo Branco  Avg Temp.:  7.9
+    City:  Coimbra  Avg Temp.:  9.6
+    City:  Faro  Avg Temp.:  11.9
+    City:  Funchal  Avg Temp.:  16.1
+    City:  Guarda  Avg Temp.:  4.0
+    City:  Lisboa  Avg Temp.:  11.3
+    City:  Ponta Delgada  Avg Temp.:  14.3
+    City:  Portalegre  Avg Temp.:  8.6
+    City:  Porto  Avg Temp.:  9.3
+    City:  Santa Cruz das Flores  Avg Temp.:  13.9
+    City:  Santarem  Avg Temp.:  9.6
+    City:  Setubal  Avg Temp.:  9.9
+    City:  Viana do Castelo  Avg Temp.:  9.5
+    City:  Vila Real  Avg Temp.:  5.8
+    City:  Viseu  Avg Temp.:  6.9
+Country:  Portugal  Avg Temp.:  9.8
+Collecting  Qatar 's temperature info
+    City:  Al-Ruwais  Avg Temp.:  17.8
+    City:  Doha  Avg Temp.:  17.2
+    City:  Dukhan  Avg Temp.:  17.1
+    City:  Ummsaid  Avg Temp.:  17.1
+Country:  Qatar  Avg Temp.:  17.3
+Collecting  Korea 's temperature info
+    City:  Busan  Avg Temp.:  3.4
+    City:  Daejeon  Avg Temp.:  -1.5
+    City:  Gangneung  Avg Temp.:  0.8
+    City:  Gwangju  Avg Temp.:  0.9
+    City:  Jeju  Avg Temp.:  5.7
+    City:  Seoul  Avg Temp.:  -2.2
+Country:  Korea  Avg Temp.:  1.2
+Collecting  Romania 's temperature info
+    City:  Arad  Avg Temp.:  -0.6
+    City:  Botosani  Avg Temp.:  -1.9
+    City:  Bucharest  Avg Temp.:  -1.0
+    City:  Cluj-Napoca  Avg Temp.:  -2.6
+    City:  Constanta  Avg Temp.:  1.6
+    City:  Craiova  Avg Temp.:  -0.6
+    City:  Iasi  Avg Temp.:  -2.0
+    City:  Rm. Valcea  Avg Temp.:  -0.1
+    City:  Sibiu  Avg Temp.:  -2.6
+    City:  Sulina  Avg Temp.:  1.0
+Country:  Romania  Avg Temp.:  -0.9
+Collecting  Russia 's temperature info
+    City:  Aginskoe  Avg Temp.:  -22.0
+    City:  Anadyr'  Avg Temp.:  -19.4
+    City:  Arhangel'sk  Avg Temp.:  -14.6
+    City:  Astrahan'  Avg Temp.:  -5.2
+    City:  Azov  Avg Temp.:  -4.0
+    City:  Barnaul  Avg Temp.:  -15.7
+    City:  Belgorod  Avg Temp.:  -7.9
+    City:  Birobidzan  Avg Temp.:  -23.0
+    City:  Blagovescensk  Avg Temp.:  -22.5
+    City:  Brjansk  Avg Temp.:  -8.8
+    City:  Cheboksary  Avg Temp.:  -12.9
+    City:  Cheljabinsk  Avg Temp.:  -15.7
+    City:  Chita  Avg Temp.:  -25.2
+    City:  Dudinka  Avg Temp.:  -28.9
+    City:  Ekaterinburg  Avg Temp.:  -14.6
+    City:  Elista  Avg Temp.:  -5.9
+    City:  Groznyj  Avg Temp.:  -2.8
+    City:  Habarovsk  Avg Temp.:  -20.6
+    City:  Hakasskaja  Avg Temp.:  -18.6
+    City:  Hanty-Mansijsk  Avg Temp.:  -20.7
+    City:  Irkutsk  Avg Temp.:  -18.3
+    City:  Ivanovo  Avg Temp.:  -12.1
+    City:  Izhevsk  Avg Temp.:  -14.5
+    City:  Jakutsk  Avg Temp.:  -41.0
+    City:  Jaroslavl'  Avg Temp.:  -12.0
+    City:  Joskar-Ola  Avg Temp.:  -13.9
+    City:  Juzhno-Sahalinsk  Avg Temp.:  -13.9
+    City:  Kaliningrad  Avg Temp.:  -3.2
+    City:  Kaluga  Avg Temp.:  -10.1
+    City:  Kazan'  Avg Temp.:  -12.8
+    City:  Kemerovo  Avg Temp.:  -18.1
+    City:  Kirov  Avg Temp.:  -14.2
+    City:  Kostroma  Avg Temp.:  -12.0
+    City:  Krasnodar  Avg Temp.:  -0.3
+    City:  Krasnojarsk  Avg Temp.:  -15.8
+    City:  Kudymkar  Avg Temp.:  -16.4
+    City:  Kurgan  Avg Temp.:  -17.0
+    City:  Kursk  Avg Temp.:  -8.8
+    City:  Kyzyl  Avg Temp.:  -30.1
+    City:  Lipeck  Avg Temp.:  -9.7
+    City:  Magadan  Avg Temp.:  -17.1
+    City:  Mahackala  Avg Temp.:  0.6
+    City:  Maikop  Avg Temp.:  -0.5
+    City:  Moscow  Avg Temp.:  -9.3
+    City:  Murmansk  Avg Temp.:  -11.2
+    City:  Nal'cik  Avg Temp.:  -3.4
+    City:  Nar'jan-Mar  Avg Temp.:  -19.1
+    City:  Nevinnomyssk  Avg Temp.:  -3.8
+    City:  Niznij Novgorod  Avg Temp.:  -11.4
+    City:  Novgorod  Avg Temp.:  -8.9
+    City:  Novosibirsk  Avg Temp.:  -16.1
+    City:  Omsk  Avg Temp.:  -17.4
+    City:  Ordzhonikedzevskaja  Avg Temp.:  -3.2
+    City:  Orel  Avg Temp.:  -8.9
+    City:  Orenburg  Avg Temp.:  -13.8
+    City:  Palana  Avg Temp.:  -17.7
+    City:  Penza  Avg Temp.:  -10.4
+    City:  Perm'  Avg Temp.:  -14.9
+    City:  Petropavlovsk-Kamca  Avg Temp.:  -8.4
+    City:  Petrozavodsk  Avg Temp.:  -11.7
+    City:  Pskov  Avg Temp.:  -7.9
+    City:  Rjazan'  Avg Temp.:  -10.3
+    City:  Rostov-Na-Donu  Avg Temp.:  -4.4
+    City:  Salehard  Avg Temp.:  -24.9
+    City:  Samara  Avg Temp.:  -12.3
+    City:  Saransk  Avg Temp.:  -11.8
+    City:  Saratov  Avg Temp.:  -9.8
+    City:  Smolensk  Avg Temp.:  -9.2
+    City:  St. Petersburg  Avg Temp.:  -7.9
+    City:  Stavropol'  Avg Temp.:  -3.5
+    City:  Syktyvkar  Avg Temp.:  -16.8
+    City:  Tambov  Avg Temp.:  -10.1
+    City:  Tiksi  Avg Temp.:  -32.4
+    City:  Tjumen'  Avg Temp.:  -17.1
+    City:  Tomsk  Avg Temp.:  -17.6
+    City:  Tula  Avg Temp.:  -9.3
+    City:  Tura  Avg Temp.:  -35.8
+    City:  Turocak  Avg Temp.:  -17.1
+    City:  Tver'  Avg Temp.:  -10.7
+    City:  Ufa  Avg Temp.:  -14.9
+    City:  Ulan-Ude  Avg Temp.:  -23.5
+    City:  Ulyanovsk  Avg Temp.:  -11.6
+    City:  Ust'ordynskiy  Avg Temp.:  -23.4
+    City:  Vladikavkaz  Avg Temp.:  -3.1
+    City:  Vladimir  Avg Temp.:  -10.8
+    City:  Vladivostok  Avg Temp.:  -12.6
+    City:  Volgograd  Avg Temp.:  -7.6
+    City:  Vologda  Avg Temp.:  -13.0
+    City:  Voronez  Avg Temp.:  -8.8
+Country:  Russia  Avg Temp.:  -13.6
+Collecting  Rwanda 's temperature info
+    City:  Gicumbi  Avg Temp.:  18.6
+    City:  Huye  Avg Temp.:  19.5
+    City:  Karongi  Avg Temp.:  20.2
+    City:  Kigali  Avg Temp.:  21.2
+    City:  Musanze  Avg Temp.:  17.6
+    City:  Ngoma  Avg Temp.:  21.5
+    City:  Nyagatare  Avg Temp.:  21.4
+    City:  Nyamagabe  Avg Temp.:  18.9
+    City:  Rubavu  Avg Temp.:  20.3
+    City:  Rusizi  Avg Temp.:  20.4
+Country:  Rwanda  Avg Temp.:  20.0
+Collecting  Saint Lucia 's temperature info
+    City:  Vieux-Fort  Avg Temp.:  26.1
+Country:  Saint Lucia  Avg Temp.:  26.1
+Collecting  Samoa 's temperature info
+    City:  Apia  Avg Temp.:  27.1
+Country:  Samoa  Avg Temp.:  27.1
+Collecting  Saudi Arabia 's temperature info
+    City:  Abha  Avg Temp.:  13.6
+    City:  Al-Baha  Avg Temp.:  16.1
+    City:  Arar  Avg Temp.:  9.4
+    City:  Buraydah  Avg Temp.:  12.8
+    City:  Dammam  Avg Temp.:  15.3
+    City:  Hail  Avg Temp.:  10.5
+    City:  Jeddah  Avg Temp.:  23.5
+    City:  Jizan  Avg Temp.:  26.1
+    City:  Madinah  Avg Temp.:  23.5
+    City:  Makkah  Avg Temp.:  24.6
+    City:  Najran  Avg Temp.:  17.2
+    City:  Riyadh  Avg Temp.:  13.5
+    City:  Sakaka  Avg Temp.:  9.8
+    City:  Sharurah  Avg Temp.:  18.6
+    City:  Tabouk  Avg Temp.:  11.2
+    City:  Taif  Avg Temp.:  15.4
+    City:  Yanbu  Avg Temp.:  20.9
+Country:  Saudi Arabia  Avg Temp.:  16.6
+Collecting  Senegal 's temperature info
+    City:  Cap Skirring  Avg Temp.:  24.4
+    City:  Dakar  Avg Temp.:  21.4
+    City:  Diourbel  Avg Temp.:  24.5
+    City:  Kaolack  Avg Temp.:  26.3
+    City:  Kedougou  Avg Temp.:  25.9
+    City:  Kolda  Avg Temp.:  24.5
+    City:  Linguere  Avg Temp.:  24.8
+    City:  Matam  Avg Temp.:  24.6
+    City:  Podor  Avg Temp.:  23.5
+    City:  Saint-Louis  Avg Temp.:  23.3
+    City:  Tambacounda  Avg Temp.:  26.1
+    City:  Ziguinchor  Avg Temp.:  25.5
+Country:  Senegal  Avg Temp.:  24.6
+Collecting  Serbia 's temperature info
+    City:  Belgrade  Avg Temp.:  0.6
+    City:  Kragujevac  Avg Temp.:  0.0
+    City:  Nis  Avg Temp.:  0.1
+    City:  Novi Sad  Avg Temp.:  -1.0
+    City:  Pristina  Avg Temp.:  -1.3
+    City:  Zlatibor  Avg Temp.:  -3.1
+Country:  Serbia  Avg Temp.:  -0.8
+Collecting  Seychelles 's temperature info
+    City:  Victoria  Avg Temp.:  27.2
+Country:  Seychelles  Avg Temp.:  27.2
+Collecting  Sierra Leone 's temperature info
+    City:  Freetown  Avg Temp.:  26.9
+Country:  Sierra Leone  Avg Temp.:  26.9
+Collecting  Singapore 's temperature info
+    City:  Singapore  Avg Temp.:  26.5
+Country:  Singapore  Avg Temp.:  26.5
+Collecting  Slovakia 's temperature info
+    City:  Bratislava  Avg Temp.:  -0.6
+    City:  Hurbanovo  Avg Temp.:  -0.6
+    City:  Kosice  Avg Temp.:  -2.5
+    City:  Lucenec  Avg Temp.:  -2.5
+    City:  Poprad  Avg Temp.:  -4.2
+    City:  Sliac  Avg Temp.:  -2.9
+    City:  Tisinec  Avg Temp.:  -3.1
+    City:  Zilina  Avg Temp.:  -2.4
+Country:  Slovakia  Avg Temp.:  -2.4
+Collecting  Slovenia 's temperature info
+    City:  Ljubljana  Avg Temp.:  0.1
+    City:  Maribor  Avg Temp.:  0.0
+    City:  Novo Mesto  Avg Temp.:  0.1
+    City:  Portoroz  Avg Temp.:  4.6
+    City:  Ratece  Avg Temp.:  -3.3
+Country:  Slovenia  Avg Temp.:  0.3
+Collecting  Solomon Islands 's temperature info
+    City:  Auki  Avg Temp.:  27.2
+Country:  Solomon Islands  Avg Temp.:  27.2
+Collecting  Somalia 's temperature info
+    City:  Bosaso  Avg Temp.:  29.7
+    City:  Hargeisa  Avg Temp.:  17.9
+    City:  Mogadishu  Avg Temp.:  26.6
+Country:  Somalia  Avg Temp.:  24.7
+Collecting  South Africa 's temperature info
+    City:  Cape Town  Avg Temp.:  20.9
+    City:  Durban  Avg Temp.:  24.5
+    City:  Johannesburg  Avg Temp.:  20.1
+Country:  South Africa  Avg Temp.:  21.8
+Collecting  South Sudan 's temperature info
+    City:  Juba  Avg Temp.:  28.4
+    City:  Malakal  Avg Temp.:  26.8
+Country:  South Sudan  Avg Temp.:  27.6
+Collecting  Spain 's temperature info
+    City:  A Coruna  Avg Temp.:  10.8
+    City:  Albacete  Avg Temp.:  6.0
+    City:  Alcala de Henares  Avg Temp.:  5.5
+    City:  Alicante/Alacant  Avg Temp.:  11.7
+    City:  Almeria  Avg Temp.:  12.6
+    City:  Andujar  Avg Temp.:  9.5
+    City:  Aranda de Duero  Avg Temp.:  3.5
+    City:  Aranjuez  Avg Temp.:  6.0
+    City:  Arrecife  Avg Temp.:  17.4
+    City:  Avila  Avg Temp.:  3.4
+    City:  Aviles  Avg Temp.:  9.4
+    City:  Ayamonte  Avg Temp.:  11.6
+    City:  Badajoz  Avg Temp.:  8.7
+    City:  Barcelona  Avg Temp.:  9.2
+    City:  Benavente  Avg Temp.:  4.1
+    City:  Benidorm  Avg Temp.:  12.4
+    City:  Bilbao  Avg Temp.:  9.3
+    City:  Burgos  Avg Temp.:  3.2
+    City:  Caceres  Avg Temp.:  7.8
+    City:  Cadiz  Avg Temp.:  12.7
+    City:  Calatayud  Avg Temp.:  5.7
+    City:  Capdepera  Avg Temp.:  12.7
+    City:  Caravaca de La Cruz  Avg Temp.:  8.4
+    City:  Cartagena  Avg Temp.:  11.9
+    City:  Castellon de la Plana/Castello de la Plana  Avg Temp.:  10.9
+    City:  Cazorla  Avg Temp.:  8.8
+    City:  Ceuta  Avg Temp.:  13.9
+    City:  Ciudad Real  Avg Temp.:  6.0
+    City:  Ciudad Rodrigo  Avg Temp.:  4.8
+    City:  Ciutadella de Menorca  Avg Temp.:  11.1
+    City:  Cordoba  Avg Temp.:  9.2
+    City:  Cuenca  Avg Temp.:  5.4
+    City:  Donostia/San Sebastian  Avg Temp.:  8.4
+    City:  Ecija  Avg Temp.:  8.9
+    City:  Eivissa  Avg Temp.:  11.8
+    City:  Elche/Elx  Avg Temp.:  11.8
+    City:  Estepona  Avg Temp.:  14.3
+    City:  Figueres  Avg Temp.:  9.1
+    City:  Gijon  Avg Temp.:  8.8
+    City:  Girona  Avg Temp.:  7.1
+    City:  Granada  Avg Temp.:  6.5
+    City:  Guadalajara  Avg Temp.:  4.9
+    City:  Haro  Avg Temp.:  5.8
+    City:  Huelva  Avg Temp.:  11.1
+    City:  Huesca  Avg Temp.:  5.2
+    City:  Jaca  Avg Temp.:  4.3
+    City:  Jaen  Avg Temp.:  8.5
+    City:  Javea/Xabia  Avg Temp.:  10.8
+    City:  Jerez de la Frontera  Avg Temp.:  10.7
+    City:  La Seu D-Urgell  Avg Temp.:  3.8
+    City:  Las Palmas de Gran Canaria  Avg Temp.:  17.9
+    City:  Leon  Avg Temp.:  3.2
+    City:  Llanes  Avg Temp.:  10.1
+    City:  Lleida  Avg Temp.:  5.5
+    City:  Lloret de Mar  Avg Temp.:  10.4
+    City:  Logrono  Avg Temp.:  5.8
+    City:  Lugo  Avg Temp.:  6.1
+    City:  Madrid  Avg Temp.:  6.2
+    City:  Malaga  Avg Temp.:  12.1
+    City:  Manresa  Avg Temp.:  6.5
+    City:  Mao-Mahon  Avg Temp.:  10.8
+    City:  Marbella  Avg Temp.:  12.9
+    City:  Melilla  Avg Temp.:  13.3
+    City:  Merida  Avg Temp.:  8.9
+    City:  Motril  Avg Temp.:  13.3
+    City:  Murcia  Avg Temp.:  10.8
+    City:  Ourense  Avg Temp.:  8.0
+    City:  Oviedo  Avg Temp.:  8.3
+    City:  Palencia  Avg Temp.:  2.8
+    City:  Palma de Mallorca  Avg Temp.:  9.5
+    City:  Pamplona/Iruna  Avg Temp.:  5.5
+    City:  Plasencia  Avg Temp.:  7.9
+    City:  Ponferrada  Avg Temp.:  4.9
+    City:  Pontevedra  Avg Temp.:  9.5
+    City:  Puerto de la Cruz  Avg Temp.:  18.2
+    City:  Puerto del Rosario  Avg Temp.:  17.6
+    City:  Reinosa  Avg Temp.:  3.5
+    City:  Reus  Avg Temp.:  8.3
+    City:  Roquetas de Mar  Avg Temp.:  12.8
+    City:  Salamanca  Avg Temp.:  5.1
+    City:  Salou  Avg Temp.:  10.5
+    City:  San Sebastian de la Gomera  Avg Temp.:  17.6
+    City:  Santa Cruz de La Palma  Avg Temp.:  18.1
+    City:  Santa Cruz De Tenerife  Avg Temp.:  18.2
+    City:  Santander  Avg Temp.:  9.7
+    City:  Santiago de Compostela  Avg Temp.:  7.6
+    City:  Segovia  Avg Temp.:  4.3
+    City:  Sevilla  Avg Temp.:  10.9
+    City:  Siguenza  Avg Temp.:  3.0
+    City:  Sitges  Avg Temp.:  9.6
+    City:  Soria  Avg Temp.:  3.2
+    City:  Talavera de la Reina  Avg Temp.:  6.3
+    City:  Tarancon  Avg Temp.:  4.7
+    City:  Tarifa  Avg Temp.:  12.1
+    City:  Tarragona  Avg Temp.:  10.5
+    City:  Teruel  Avg Temp.:  3.6
+    City:  Toledo  Avg Temp.:  6.5
+    City:  Torremolinos  Avg Temp.:  13.8
+    City:  Trujillo  Avg Temp.:  7.3
+    City:  Tudela  Avg Temp.:  5.9
+    City:  Valdepenas  Avg Temp.:  5.6
+    City:  Valencia  Avg Temp.:  11.8
+    City:  Valladolid  Avg Temp.:  4.2
+    City:  Valverde  Avg Temp.:  18.9
+    City:  Vigo  Avg Temp.:  8.6
+    City:  Vinaros  Avg Temp.:  10.1
+    City:  Vitoria-Gasteiz  Avg Temp.:  5.0
+    City:  Xativa  Avg Temp.:  10.0
+    City:  Zamora  Avg Temp.:  4.7
+    City:  Zaragoza  Avg Temp.:  6.7
+Country:  Spain  Avg Temp.:  8.9
+Collecting  Sri Lanka 's temperature info
+    City:  Anuradhapura  Avg Temp.:  25.2
+    City:  Batticaloa  Avg Temp.:  25.5
+    City:  Colombo  Avg Temp.:  26.6
+    City:  Galle  Avg Temp.:  25.9
+    City:  Jaffna  Avg Temp.:  25.8
+    City:  Kandy  Avg Temp.:  23.4
+    City:  Mannar  Avg Temp.:  26.2
+    City:  Nuwara Eliya  Avg Temp.:  14.7
+    City:  Ratnapura  Avg Temp.:  27.2
+    City:  Trincomalee  Avg Temp.:  26.1
+Country:  Sri Lanka  Avg Temp.:  24.7
+Collecting  Sudan 's temperature info
+    City:  Dongola  Avg Temp.:  23.1
+    City:  Elobeid  Avg Temp.:  21.4
+    City:  Kassala  Avg Temp.:  25.1
+    City:  Khartoum  Avg Temp.:  23.1
+    City:  Nyala  Avg Temp.:  23.0
+    City:  Port Sudan  Avg Temp.:  23.0
+Country:  Sudan  Avg Temp.:  23.1
+Collecting  Suriname 's temperature info
+    City:  Kwamalasemoetoe  Avg Temp.:  25.9
+    City:  Nieuw Nickerie  Avg Temp.:  26.1
+    City:  Paramaribo  Avg Temp.:  26.7
+    City:  Sipaliwini  Avg Temp.:  25.0
+    City:  Stoelmanseiland  Avg Temp.:  26.4
+Country:  Suriname  Avg Temp.:  26.0
+Collecting  Sweden 's temperature info
+    City:  Gothenburg  Avg Temp.:  -1.0
+    City:  Kiruna  Avg Temp.:  -14.5
+    City:  Malmo  Avg Temp.:  -0.5
+    City:  Norrkoping  Avg Temp.:  -3.5
+    City:  Stockholm  Avg Temp.:  -3.0
+    City:  Sundsvall  Avg Temp.:  -9.5
+Country:  Sweden  Avg Temp.:  -5.3
+Collecting  Switzerland 's temperature info
+    City:  Geneva  Avg Temp.:  0.9
+    City:  Lugano  Avg Temp.:  3.1
+    City:  Zurich  Avg Temp.:  -0.4
+Country:  Switzerland  Avg Temp.:  1.2
+Collecting  Syrian Arab Republic 's temperature info
+    City:  Aleppo  Avg Temp.:  6.0
+    City:  Damascus  Avg Temp.:  6.5
+    City:  Dara'a  Avg Temp.:  8.2
+    City:  Deir Ezzor  Avg Temp.:  7.4
+    City:  Homs  Avg Temp.:  6.9
+    City:  Lattakia  Avg Temp.:  12.0
+    City:  Palmyra  Avg Temp.:  7.3
+    City:  Qamishli  Avg Temp.:  6.8
+Country:  Syrian Arab Republic  Avg Temp.:  7.6
+Collecting  Tajikistan 's temperature info
+    City:  Dushanbe  Avg Temp.:  2.8
+    City:  Khorog  Avg Temp.:  -6.2
+    City:  Khujand  Avg Temp.:  0.1
+    City:  Kurgan-Tube  Avg Temp.:  4.6
+Country:  Tajikistan  Avg Temp.:  0.3
+Collecting  Tanzania 's temperature info
+    City:  Dar Es Salaam  Avg Temp.:  27.6
+    City:  Dodoma  Avg Temp.:  24.0
+    City:  Mtwara  Avg Temp.:  26.8
+    City:  Mwanza  Avg Temp.:  22.6
+    City:  Tabora  Avg Temp.:  22.8
+    City:  Tanga  Avg Temp.:  27.9
+    City:  Zanzibar  Avg Temp.:  27.7
+Country:  Tanzania  Avg Temp.:  25.6
+Collecting  Thailand 's temperature info
+    City:  Bangkok  Avg Temp.:  26.5
+    City:  Chiang Mai  Avg Temp.:  21.8
+    City:  Chiang Rai  Avg Temp.:  20.2
+    City:  Hua Hin  Avg Temp.:  25.8
+    City:  Kanchanaburi  Avg Temp.:  26.2
+    City:  Khon Kaen  Avg Temp.:  23.9
+    City:  Ko Samui  Avg Temp.:  26.6
+    City:  Mae Hong Son  Avg Temp.:  21.8
+    City:  Nakhon Ratchasima  Avg Temp.:  24.4
+    City:  Pattaya  Avg Temp.:  26.9
+    City:  Phetchabun  Avg Temp.:  24.7
+    City:  Phuket  Avg Temp.:  28.1
+    City:  Songkhla  Avg Temp.:  27.0
+    City:  Sukhothai  Avg Temp.:  26.0
+    City:  Tak  Avg Temp.:  24.3
+    City:  Ubon Ratchathani  Avg Temp.:  24.4
+Country:  Thailand  Avg Temp.:  24.9
+Collecting  Macedonia 's temperature info
+    City:  Ohrid  Avg Temp.:  2.4
+    City:  Skopje  Avg Temp.:  0.2
+Country:  Macedonia  Avg Temp.:  1.3
+Collecting  Togo 's temperature info
+    City:  Lome  Avg Temp.:  27.1
+Country:  Togo  Avg Temp.:  27.1
+Collecting  Trinidad 's temperature info
+    City:  Port of Spain (Trinidad)  Avg Temp.:  25.5
+    City:  Scarborough (Tobago)  Avg Temp.:  25.9
+Country:  Trinidad  Avg Temp.:  25.7
+Collecting  Tunisia 's temperature info
+    City:  Tunis-Carthage  Avg Temp.:  11.4
+Country:  Tunisia  Avg Temp.:  11.4
+Collecting  Turkey 's temperature info
+    City:  Adana  Avg Temp.:  9.8
+    City:  Ankara  Avg Temp.:  0.3
+    City:  Antalya  Avg Temp.:  10.4
+    City:  Diyarbakir  Avg Temp.:  2.0
+    City:  Edirne  Avg Temp.:  2.5
+    City:  Erzurum  Avg Temp.:  -8.7
+    City:  Istanbul  Avg Temp.:  5.8
+    City:  Izmir  Avg Temp.:  8.9
+    City:  Konya  Avg Temp.:  0.1
+    City:  Mugla  Avg Temp.:  5.6
+    City:  Nevsehir  Avg Temp.:  -0.2
+    City:  Samsun  Avg Temp.:  7.2
+    City:  Sanliurfa  Avg Temp.:  5.8
+    City:  Trabzon  Avg Temp.:  7.6
+    City:  Van  Avg Temp.:  -3.2
+    City:  Zonguldak  Avg Temp.:  6.2
+Country:  Turkey  Avg Temp.:  3.8
+Collecting  Turkmenistan 's temperature info
+    City:  Ashgabat  Avg Temp.:  2.9
+Country:  Turkmenistan  Avg Temp.:  2.9
+Collecting  Uganda 's temperature info
+    City:  Arua  Avg Temp.:  23.9
+    City:  Entebbe  Avg Temp.:  22.1
+    City:  Gulu  Avg Temp.:  23.9
+    City:  Kabale  Avg Temp.:  17.2
+    City:  Kampala  Avg Temp.:  23.1
+    City:  Kasese  Avg Temp.:  23.5
+    City:  Masindi  Avg Temp.:  23.2
+    City:  Mbarara  Avg Temp.:  20.2
+    City:  Soroti  Avg Temp.:  24.9
+    City:  Tororo  Avg Temp.:  23.2
+Country:  Uganda  Avg Temp.:  22.5
+Collecting  Ukraine 's temperature info
+    City:  Dnipro  Avg Temp.:  -5.4
+    City:  Donetsk  Avg Temp.:  -5.8
+    City:  Kharkiv  Avg Temp.:  -7.0
+    City:  Kherson  Avg Temp.:  -2.8
+    City:  Kyiv  Avg Temp.:  -5.4
+    City:  Luhansk  Avg Temp.:  -5.8
+    City:  Lviv  Avg Temp.:  -4.5
+    City:  Odesa  Avg Temp.:  -1.6
+    City:  Simferopol  Avg Temp.:  -0.2
+    City:  Uzhorod  Avg Temp.:  -2.8
+    City:  Vinnitsa  Avg Temp.:  -5.7
+Country:  Ukraine  Avg Temp.:  -4.3
+Collecting  United Arab Emirates 's temperature info
+    City:  Abu Dhabi  Avg Temp.:  17.8
+    City:  Dubai  Avg Temp.:  18.9
+    City:  Ras Al Khaimah  Avg Temp.:  18.3
+Country:  United Arab Emirates  Avg Temp.:  18.3
+Collecting  United Kingdom 's temperature info
+    City:  Aberdeen  Avg Temp.:  3.5
+    City:  Aberystwyth  Avg Temp.:  5.3
+    City:  Armagh  Avg Temp.:  4.7
+    City:  Bala  Avg Temp.:  4.0
+    City:  Bangor  Avg Temp.:  6.2
+    City:  Belfast  Avg Temp.:  5.1
+    City:  Birmingham  Avg Temp.:  4.0
+    City:  Bristol  Avg Temp.:  5.0
+    City:  Cambridge  Avg Temp.:  4.5
+    City:  Cardiff  Avg Temp.:  5.3
+    City:  Carlisle  Avg Temp.:  4.2
+    City:  Edinburgh  Avg Temp.:  4.2
+    City:  Enniskillen  Avg Temp.:  4.8
+    City:  Exeter  Avg Temp.:  5.8
+    City:  Glasgow  Avg Temp.:  3.5
+    City:  Guernsey  Avg Temp.:  6.6
+    City:  Hamilton  Avg Temp.:  18.2
+    City:  Inverness  Avg Temp.:  4.0
+    City:  Isle of Man  Avg Temp.:  5.5
+    City:  Jersey  Avg Temp.:  6.2
+    City:  Leeds  Avg Temp.:  3.0
+    City:  Liverpool  Avg Temp.:  4.8
+    City:  London  Avg Temp.:  5.6
+    City:  Londonderry (Derry)  Avg Temp.:  5.1
+    City:  Manchester  Avg Temp.:  3.9
+    City:  Newcastle  Avg Temp.:  5.3
+    City:  Norwich  Avg Temp.:  4.3
+    City:  Plymouth  Avg Temp.:  6.4
+    City:  Reading  Avg Temp.:  4.8
+    City:  Rhayader  Avg Temp.:  3.7
+    City:  Southampton  Avg Temp.:  5.7
+    City:  Swansea  Avg Temp.:  6.0
+    City:  Truro  Avg Temp.:  6.8
+    City:  Ullapool  Avg Temp.:  1.9
+    City:  Wick  Avg Temp.:  3.7
+Country:  United Kingdom  Avg Temp.:  5.2
+Collecting  United States of America 's temperature info
+    City:  Abilene, Texas  Avg Temp.:  7.2
+    City:  Agana, Guam  Avg Temp.:  26.8
+    City:  Akron, Ohio  Avg Temp.:  -2.0
+    City:  Albany, New York  Avg Temp.:  -5.2
+    City:  Albuquerque, New Mexico  Avg Temp.:  2.4
+    City:  Allentown, Pennsylvania  Avg Temp.:  -2.4
+    City:  Amarillo, Texas  Avg Temp.:  2.8
+    City:  Anchorage, Alaska  Avg Temp.:  -9.0
+    City:  Ann Arbor, Michigan  Avg Temp.:  -5.0
+    City:  Annapolis, Maryland  Avg Temp.:  2.7
+    City:  Asheville, North Carolina  Avg Temp.:  2.8
+    City:  Athens, Georgia  Avg Temp.:  6.4
+    City:  Atlanta, Georgia  Avg Temp.:  6.3
+    City:  Atlantic City, New Jersey  Avg Temp.:  1.9
+    City:  Augusta, Georgia  Avg Temp.:  7.4
+    City:  Augusta, Maine  Avg Temp.:  -7.0
+    City:  Aurora, Illinois  Avg Temp.:  -4.9
+    City:  Austin, Texas  Avg Temp.:  9.4
+    City:  Baltimore, Maryland  Avg Temp.:  4.0
+    City:  Bangor, Maine  Avg Temp.:  -8.3
+    City:  Baton Rouge, Louisiana  Avg Temp.:  10.9
+    City:  Billings, Montana  Avg Temp.:  -2.1
+    City:  Birmingham, Alabama  Avg Temp.:  6.5
+    City:  Bismarck, North Dakota  Avg Temp.:  -10.7
+    City:  Boise, Idaho  Avg Temp.:  -0.4
+    City:  Boston, Massachusetts  Avg Temp.:  -1.7
+    City:  Bowling Green, Kentucky  Avg Temp.:  2.0
+    City:  Bozeman, Montana  Avg Temp.:  -3.9
+    City:  Bridgeport, Connecticut  Avg Temp.:  -1.9
+    City:  Brookings, South Dakota  Avg Temp.:  -10.6
+    City:  Brownsville, Texas  Avg Temp.:  16.1
+    City:  Buffalo, New York  Avg Temp.:  -4.0
+    City:  Burlington, Vermont  Avg Temp.:  -7.4
+    City:  Butte, Montana  Avg Temp.:  -6.9
+    City:  Caribou, Maine  Avg Temp.:  -12.1
+    City:  Carmel, Indiana  Avg Temp.:  -3.1
+    City:  Carson City, Nevada  Avg Temp.:  0.8
+    City:  Casper, Wyoming  Avg Temp.:  -3.1
+    City:  Cedar Rapids, Iowa  Avg Temp.:  -5.6
+    City:  Chandler, Arizona  Avg Temp.:  11.5
+    City:  Charleston, South Carolina  Avg Temp.:  9.8
+    City:  Charleston, West Virginia  Avg Temp.:  1.3
+    City:  Charlotte, North Carolina  Avg Temp.:  4.5
+    City:  Chattanooga, Tennessee  Avg Temp.:  4.7
+    City:  Cheyenne, Wyoming  Avg Temp.:  -1.8
+    City:  Chicago, Illinois  Avg Temp.:  -4.6
+    City:  Cincinnati, Ohio  Avg Temp.:  -0.4
+    City:  Clarksville, Tennessee  Avg Temp.:  2.5
+    City:  Cleveland, Mississippi  Avg Temp.:  5.0
+    City:  Cleveland, Ohio  Avg Temp.:  -1.5
+    City:  Colchester, Vermont  Avg Temp.:  -8.0
+    City:  Colorado Springs, Colorado  Avg Temp.:  -0.9
+    City:  Columbia, Missouri  Avg Temp.:  -0.5
+    City:  Columbia, South Carolina  Avg Temp.:  8.8
+    City:  Columbus, Georgia  Avg Temp.:  8.4
+    City:  Columbus, Ohio  Avg Temp.:  -1.4
+    City:  Concord, New Hampshire  Avg Temp.:  -6.3
+    City:  Corpus Christi, Texas  Avg Temp.:  13.9
+    City:  Dallas Ft Worth, Texas  Avg Temp.:  7.8
+    City:  Davenport, Iowa  Avg Temp.:  -5.9
+    City:  Dayton, Ohio  Avg Temp.:  -1.7
+    City:  Daytona Beach, Florida  Avg Temp.:  13.8
+    City:  Denver, Colorado  Avg Temp.:  -0.7
+    City:  Des Moines, Iowa  Avg Temp.:  -5.2
+    City:  Detroit, Michigan  Avg Temp.:  -3.4
+    City:  Dover, Delaware  Avg Temp.:  1.8
+    City:  Duluth, Minnesota  Avg Temp.:  -12.1
+    City:  El Paso, Texas  Avg Temp.:  7.0
+    City:  Elkins, West Virginia  Avg Temp.:  -1.6
+    City:  Erie, Pennsylvania  Avg Temp.:  -2.6
+    City:  Eugene, Oregon  Avg Temp.:  4.8
+    City:  Evansville, Indiana  Avg Temp.:  2.2
+    City:  Fairbanks, Alaska  Avg Temp.:  -21.1
+    City:  Fargo, North Dakota  Avg Temp.:  -12.6
+    City:  Fayetteville, Arkansas  Avg Temp.:  1.6
+    City:  Flagstaff, Arizona  Avg Temp.:  -1.2
+    City:  Flint, Michigan  Avg Temp.:  -5.3
+    City:  Fort Collins, Colorado  Avg Temp.:  -1.7
+    City:  Fort Smith, Arkansas  Avg Temp.:  4.1
+    City:  Fort Wayne, Indiana  Avg Temp.:  -3.9
+    City:  Frankfort, Kentucky  Avg Temp.:  -0.1
+    City:  Fresno, California  Avg Temp.:  8.1
+    City:  Gillette, Wyoming  Avg Temp.:  -3.7
+    City:  Goodland, Kansas  Avg Temp.:  -1.3
+    City:  Grand Forks, North Dakota  Avg Temp.:  -12.4
+    City:  Grand Island, Nebraska  Avg Temp.:  -3.9
+    City:  Grand Junction, Colorado  Avg Temp.:  -2.6
+    City:  Grand Rapids, Michigan  Avg Temp.:  -4.2
+    City:  Great Falls, Montana  Avg Temp.:  -3.8
+    City:  Green Bay, Wisconsin  Avg Temp.:  -8.6
+    City:  Greensboro, North Carolina  Avg Temp.:  2.6
+    City:  Greenville, South Carolina  Avg Temp.:  4.8
+    City:  Gulfport, Mississippi  Avg Temp.:  10.6
+    City:  Harrisburg, Pennsylvania  Avg Temp.:  -1.7
+    City:  Hattiesburg, Mississippi  Avg Temp.:  9.2
+    City:  Helena, Montana  Avg Temp.:  -5.0
+    City:  Hilo, Hawaii  Avg Temp.:  21.9
+    City:  Honolulu, Hawaii  Avg Temp.:  22.9
+    City:  Houston, Texas  Avg Temp.:  11.7
+    City:  Huntington, West Virginia  Avg Temp.:  1.1
+    City:  Huntsville, Alabama  Avg Temp.:  5.3
+    City:  Idaho Falls, Idaho  Avg Temp.:  -5.4
+    City:  Indianapolis, Indiana  Avg Temp.:  -2.2
+    City:  Jackson, Mississippi  Avg Temp.:  8.2
+    City:  Jacksonville, Florida  Avg Temp.:  12.3
+    City:  Jefferson City, Missouri  Avg Temp.:  -0.9
+    City:  Joliet, Illinois  Avg Temp.:  -4.5
+    City:  Jonesboro, Arkansas  Avg Temp.:  2.0
+    City:  Juneau, Alaska  Avg Temp.:  -0.9
+    City:  Kailua, Hawaii  Avg Temp.:  19.4
+    City:  Kansas City, Kansas  Avg Temp.:  -0.5
+    City:  Kansas City, Missouri  Avg Temp.:  -0.5
+    City:  Kapolei, Hawaii  Avg Temp.:  22.6
+    City:  Kearney, Nebraska  Avg Temp.:  -4.1
+    City:  Keene, New Hampshire  Avg Temp.:  -6.6
+    City:  Kenosha, Wisconsin  Avg Temp.:  -4.8
+    City:  Ketchikan, Alaska  Avg Temp.:  1.6
+    City:  Key West, Florida  Avg Temp.:  20.7
+    City:  Knoxville, Tennessee  Avg Temp.:  2.8
+    City:  Lafayette, Louisiana  Avg Temp.:  10.3
+    City:  Lahaina, Hawaii  Avg Temp.:  22.8
+    City:  Lake Charles, Louisiana  Avg Temp.:  11.0
+    City:  Lansing, Michigan  Avg Temp.:  -4.6
+    City:  Las Cruces, New Mexico  Avg Temp.:  3.9
+    City:  Las Vegas, Nevada  Avg Temp.:  9.2
+    City:  Lawton, Oklahoma  Avg Temp.:  4.9
+    City:  Lexington, Kentucky  Avg Temp.:  0.5
+    City:  Lincoln, Nebraska  Avg Temp.:  -4.1
+    City:  Little Rock, Arkansas  Avg Temp.:  5.0
+    City:  Los Angeles, California  Avg Temp.:  14.5
+    City:  Louisville, Kentucky  Avg Temp.:  1.6
+    City:  Lowell, Massachusetts  Avg Temp.:  -4.6
+    City:  Lubbock, Texas  Avg Temp.:  4.6
+    City:  Macon, Georgia  Avg Temp.:  8.0
+    City:  Madison, Wisconsin  Avg Temp.:  -7.3
+    City:  Manchester, New Hampshire  Avg Temp.:  -4.2
+    City:  McComb, Mississippi  Avg Temp.:  9.1
+    City:  Medford, Oregon  Avg Temp.:  4.6
+    City:  Memphis, Tennessee  Avg Temp.:  3.9
+    City:  Miami, Florida  Avg Temp.:  20.5
+    City:  Middletown, Connecticut  Avg Temp.:  -1.8
+    City:  Milwaukee, Wisconsin  Avg Temp.:  -5.4
+    City:  Minneapolis, Minnesota  Avg Temp.:  -9.1
+    City:  Minot, North Dakota  Avg Temp.:  -11.0
+    City:  Missoula, Montana  Avg Temp.:  -3.0
+    City:  Mobile, Alabama  Avg Temp.:  10.2
+    City:  Montgomery, Alabama  Avg Temp.:  8.1
+    City:  Montpelier, Vermont  Avg Temp.:  -9.1
+    City:  Myrtle Beach, South Carolina  Avg Temp.:  7.0
+    City:  Nampa, Idaho  Avg Temp.:  -0.8
+    City:  Napa, California  Avg Temp.:  7.8
+    City:  Naples, Florida  Avg Temp.:  18.0
+    City:  Nashua, New Hampshire  Avg Temp.:  -4.7
+    City:  Nashville, Tennessee  Avg Temp.:  3.2
+    City:  New Haven, Connecticut  Avg Temp.:  -1.1
+    City:  New Orleans, Louisiana  Avg Temp.:  11.8
+    City:  New York City, New York  Avg Temp.:  0.4
+    City:  Newark, Delaware  Avg Temp.:  0.6
+    City:  Newark, New Jersey  Avg Temp.:  -0.2
+    City:  Newport News, Virginia  Avg Temp.:  4.8
+    City:  Norfolk, Virginia  Avg Temp.:  4.8
+    City:  Norman, Oklahoma  Avg Temp.:  3.3
+    City:  North Platte, Nebraska  Avg Temp.:  -3.9
+    City:  Oklahoma City, Oklahoma  Avg Temp.:  3.4
+    City:  Olathe, Kansas  Avg Temp.:  -1.4
+    City:  Olympia, Washington  Avg Temp.:  4.3
+    City:  Omaha, Nebraska  Avg Temp.:  -5.3
+    City:  Orlando, Florida  Avg Temp.:  15.7
+    City:  Owensboro, Kentucky  Avg Temp.:  2.2
+    City:  Paducah, Kentucky  Avg Temp.:  2.0
+    City:  Palm Springs, California  Avg Temp.:  14.2
+    City:  Parkersburg, West Virginia  Avg Temp.:  0.1
+    City:  Pendleton, Oregon  Avg Temp.:  2.3
+    City:  Peoria, Illinois  Avg Temp.:  -4.0
+    City:  Philadelphia, Pennsylvania  Avg Temp.:  0.5
+    City:  Phoenix, Arizona  Avg Temp.:  13.9
+    City:  Pierre, South Dakota  Avg Temp.:  -6.7
+    City:  Pittsburgh, Pennsylvania  Avg Temp.:  -1.8
+    City:  Pocatello, Idaho  Avg Temp.:  -3.5
+    City:  Portland, Maine  Avg Temp.:  -5.4
+    City:  Portland, Oregon  Avg Temp.:  5.2
+    City:  Providence, Rhode Island  Avg Temp.:  -1.5
+    City:  Provo, Utah  Avg Temp.:  -0.6
+    City:  Pueblo, Colorado  Avg Temp.:  0.4
+    City:  Racine, Wisconsin  Avg Temp.:  -5.2
+    City:  Raleigh & Durham, North Carolina  Avg Temp.:  5.0
+    City:  Rapid City, South Dakota  Avg Temp.:  -2.8
+    City:  Reading, Pennsylvania  Avg Temp.:  -1.2
+    City:  Reno, Nevada  Avg Temp.:  1.2
+    City:  Richmond, Virginia  Avg Temp.:  3.2
+    City:  Rio Rancho, New Mexico  Avg Temp.:  2.8
+    City:  Roanoke, Virginia  Avg Temp.:  1.9
+    City:  Rochester, Minnesota  Avg Temp.:  -9.1
+    City:  Rochester, New Hampshire  Avg Temp.:  -5.1
+    City:  Rochester, New York  Avg Temp.:  -4.1
+    City:  Rock Hill, South Carolina  Avg Temp.:  4.9
+    City:  Rock Springs, Wyoming  Avg Temp.:  -5.5
+    City:  Rockford, Illinois  Avg Temp.:  -5.9
+    City:  Roswell, New Mexico  Avg Temp.:  3.7
+    City:  Rutland, Vermont  Avg Temp.:  -7.5
+    City:  Sacramento, California  Avg Temp.:  7.9
+    City:  Saint Paul, Minnesota  Avg Temp.:  -8.3
+    City:  Salem, Oregon  Avg Temp.:  5.1
+    City:  Salt Lake City, Utah  Avg Temp.:  -1.4
+    City:  San Angelo, Texas  Avg Temp.:  8.0
+    City:  San Antonio, Texas  Avg Temp.:  11.0
+    City:  San Diego, California  Avg Temp.:  13.9
+    City:  San Francisco, California  Avg Temp.:  10.7
+    City:  San Jose, California  Avg Temp.:  10.6
+    City:  San Juan, Puerto Rico  Avg Temp.:  25.3
+    City:  Santa Fe, New Mexico  Avg Temp.:  -0.8
+    City:  Sault Ste. Marie, Michigan  Avg Temp.:  -9.3
+    City:  Savannah, Georgia  Avg Temp.:  9.8
+    City:  Seattle, Washington  Avg Temp.:  5.6
+    City:  Sedona, Arizona  Avg Temp.:  7.3
+    City:  Shreveport, Louisiana  Avg Temp.:  8.0
+    City:  Sioux City, Iowa  Avg Temp.:  -6.5
+    City:  Sioux Falls, South Dakota  Avg Temp.:  -8.5
+    City:  Sitka, Alaska  Avg Temp.:  2.5
+    City:  South Bend, Indiana  Avg Temp.:  -4.2
+    City:  Spokane, Washington  Avg Temp.:  -1.4
+    City:  Springfield, Illinois  Avg Temp.:  -2.9
+    City:  Springfield, Missouri  Avg Temp.:  0.4
+    City:  St. Louis, Missouri  Avg Temp.:  -0.1
+    City:  St. Petersburg, Florida  Avg Temp.:  16.4
+    City:  Stamford, Connecticut  Avg Temp.:  -1.5
+    City:  Syracuse, New York  Avg Temp.:  -4.3
+    City:  Tacoma, Washington  Avg Temp.:  5.9
+    City:  Tallahassee, Florida  Avg Temp.:  10.7
+    City:  Tampa, Florida  Avg Temp.:  16.0
+    City:  Toledo, Ohio  Avg Temp.:  -3.4
+    City:  Topeka, Kansas  Avg Temp.:  -1.6
+    City:  Trenton, New Jersey  Avg Temp.:  -0.5
+    City:  Tucson, Arizona  Avg Temp.:  11.5
+    City:  Tulsa, Oklahoma  Avg Temp.:  2.8
+    City:  Tuscaloosa, Alabama  Avg Temp.:  7.5
+    City:  Waco, Texas  Avg Temp.:  8.4
+    City:  Washington DC  Avg Temp.:  0.6
+    City:  Waterloo, Iowa  Avg Temp.:  -7.5
+    City:  Watertown, South Dakota  Avg Temp.:  -10.8
+    City:  West Palm Beach, Florida  Avg Temp.:  18.8
+    City:  Wichita Falls, Texas  Avg Temp.:  5.6
+    City:  Wichita, Kansas  Avg Temp.:  0.1
+    City:  Wilkes Barre, Pennsylvania  Avg Temp.:  -3.4
+    City:  Winston-Salem, North Carolina  Avg Temp.:  4.2
+    City:  Worcester, Massachusetts  Avg Temp.:  -4.4
+    City:  Yakima, Washington  Avg Temp.:  -0.5
+    City:  Youngstown, Ohio  Avg Temp.:  -3.5
+    City:  Yuma, Arizona  Avg Temp.:  14.8
+Country:  United States of America  Avg Temp.:  1.7
+Collecting  Uruguay 's temperature info
+    City:  Montevideo  Avg Temp.:  23.2
+    City:  Punta Del Este  Avg Temp.:  21.6
+Country:  Uruguay  Avg Temp.:  22.4
+Collecting  Uzbekistan 's temperature info
+    City:  Nukus  Avg Temp.:  -4.6
+    City:  Samarkand  Avg Temp.:  1.3
+    City:  Tashkent  Avg Temp.:  1.3
+    City:  Termez  Avg Temp.:  3.9
+Country:  Uzbekistan  Avg Temp.:  0.5
+Collecting  Vanuatu 's temperature info
+    City:  Lakatoro  Avg Temp.:  27.2
+    City:  Lenakel  Avg Temp.:  26.6
+    City:  Luganville  Avg Temp.:  26.5
+    City:  Port Vila  Avg Temp.:  26.9
+    City:  Sola  Avg Temp.:  26.9
+Country:  Vanuatu  Avg Temp.:  26.8
+Collecting  Venezuela 's temperature info
+    City:  Barcelona  Avg Temp.:  26.2
+    City:  Barquisimeto  Avg Temp.:  24.1
+    City:  Calabozo  Avg Temp.:  29.0
+    City:  Caracas  Avg Temp.:  21.1
+    City:  Cd. Bolivar  Avg Temp.:  27.5
+    City:  Coro  Avg Temp.:  27.5
+    City:  Guanare  Avg Temp.:  26.8
+    City:  Guiria  Avg Temp.:  26.1
+    City:  La Canada  Avg Temp.:  28.4
+    City:  Maiquetia  Avg Temp.:  25.4
+    City:  Maracaibo  Avg Temp.:  27.9
+    City:  Maracay  Avg Temp.:  24.9
+    City:  Margarita  Avg Temp.:  26.6
+    City:  Maturin  Avg Temp.:  26.2
+    City:  Mene Grande  Avg Temp.:  28.3
+    City:  Merida  Avg Temp.:  19.4
+    City:  Puerto Ayacucho  Avg Temp.:  28.4
+    City:  San Antonio Del Tachira  Avg Temp.:  25.6
+    City:  San Fernando  Avg Temp.:  27.5
+    City:  Santa Elena De Uairen  Avg Temp.:  22.1
+    City:  Tumeremo  Avg Temp.:  25.5
+    City:  Valle De La Pascua  Avg Temp.:  27.2
+Country:  Venezuela  Avg Temp.:  26.0
+Collecting  VietNam 's temperature info
+    City:  Da Nang  Avg Temp.:  21.6
+    City:  Hanoi  Avg Temp.:  16.5
+    City:  Ho Chi Minh City  Avg Temp.:  26.4
+Country:  VietNam  Avg Temp.:  21.5
+Collecting  Zambia 's temperature info
+    City:  Lusaka  Avg Temp.:  21.8
+Country:  Zambia  Avg Temp.:  21.8
+Collecting  Zimbabwe 's temperature info
+    City:  Beitbridge  Avg Temp.:  27.7
+    City:  Bulawayo  Avg Temp.:  22.1
+    City:  Chipinge  Avg Temp.:  21.4
+    City:  Gokwe  Avg Temp.:  22.2
+    City:  Gweru  Avg Temp.:  20.8
+    City:  Harare  Avg Temp.:  21.0
+    City:  Hwange  Avg Temp.:  23.6
+    City:  Kadoma  Avg Temp.:  23.1
+    City:  Kariba  Avg Temp.:  26.4
+    City:  Karoi  Avg Temp.:  21.4
+    City:  Kwekwe  Avg Temp.:  22.6
+    City:  Marondera  Avg Temp.:  19.8
+    City:  Masvingo  Avg Temp.:  22.6
+    City:  Mount Darwin  Avg Temp.:  23.4
+    City:  Mutare  Avg Temp.:  22.6
+    City:  Plumtree  Avg Temp.:  22.5
+    City:  Rusape  Avg Temp.:  20.6
+    City:  Victoria Falls  Avg Temp.:  23.9
+Country:  Zimbabwe  Avg Temp.:  22.6
